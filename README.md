@@ -192,6 +192,14 @@ http://127.0.0.1:5000
 - Multi-language Support
 
 ---
+# Intelligent Helpdesk Ticket Classification 🤖🎫
+
+An end-to-end Machine Learning web application designed to automatically classify incoming IT support tickets, assign them to the correct internal team, determine priority levels, and suggest instant resolutions.
+
+## 🚀 Live Demo
+Check out the live application hosted on Render: 
+👉 [Live App Link](https://ai-helpdesk-ticket-classifier.onrender.com)
+
 
 ## 👨‍💻 Author
 
