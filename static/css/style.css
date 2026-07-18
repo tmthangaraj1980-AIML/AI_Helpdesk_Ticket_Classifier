@@ -1,0 +1,122 @@
+/* ==========================================================
+   AI Helpdesk Ticket Classifier
+   Custom Styles
+========================================================== */
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* Global */
+body{
+    font-family: 'Poppins', sans-serif;
+    background:#f5f7fb;
+    color:#333;
+}
+
+/* Navbar */
+.navbar{
+    background:linear-gradient(90deg,#0f172a,#1e3a8a);
+}
+
+.navbar-brand{
+    font-size:1.4rem;
+    letter-spacing:.5px;
+}
+
+/* Hero Section */
+section:first-of-type{
+    padding-top:70px;
+}
+
+.display-4{
+    color:#0f172a;
+    font-weight:700;
+}
+
+.lead{
+    font-size:1.1rem;
+}
+
+/* Card */
+.card{
+    border:none;
+    border-radius:18px;
+    transition:all .3s ease;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 12px 25px rgba(0,0,0,.12);
+}
+
+/* Textarea */
+textarea{
+    border-radius:12px !important;
+    resize:none;
+    font-size:16px !important;
+}
+
+textarea:focus{
+    border-color:#2563eb !important;
+    box-shadow:0 0 10px rgba(37,99,235,.25) !important;
+}
+
+/* Button */
+.btn-primary{
+
+    background:#2563eb;
+    border:none;
+    border-radius:10px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.btn-primary:hover{
+
+    background:#1d4ed8;
+    transform:scale(1.03);
+}
+
+/* Result Titles */
+
+.card-title{
+
+    color:#1e3a8a;
+    font-weight:600;
+}
+
+/* Prediction */
+
+#prediction{
+
+    color:#16a34a;
+    font-weight:700;
+}
+
+/* Confidence */
+
+#confidence{
+
+    color:#dc2626;
+    font-weight:700;
+}
+
+/* Footer */
+
+footer{
+
+    margin-top:40px;
+    background:#0f172a !important;
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+.display-4{
+
+font-size:2rem;
+
+}
+
+}

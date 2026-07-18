@@ -1,0 +1,1001 @@
+ticket,category,ticket_id,priority,submitted_by_dept,timestamp
+"hi, facing an issue while trying to check the employee handbook. please advise.",HR Query,TCK1521,Medium,HR,2026-01-22
+"hi, the server is pending. thanks.",Access Request,TCK1737,Medium,HR,2026-11-11
+My VPN access is required. Please help. Regards.,Access Request,TCK1740,Medium,Sales,2026-08-12
+Please help me connect the scanner. Regards.,Printer Issue,TCK1660,Low,IT,2026-12-28
+The email account is not working.,Email Issue,TCK1411,Low,IT,2026-12-09
+"Hi team, My HP printer is ink low. Please help.",Printer Issue,TCK1678,Medium,Finance,2026-12-11
+Please resolve my network drive; it is slow.,Network Issue,TCK1626,Medium,HR,2026-03-09
+FYI - Can you submit my HR policy?,HR Query,TCK1513,Medium,HR,2026-01-03
+Employee portal password is not working Regards.,Password Reset,TCK1859,Medium,Sales,2026-07-30
+"Hi team, My leave request is incorrect. Please help.",Leave Management,TCK1136,Low,Sales,2026-02-16
+Urgent: Unable to issue my office party because it is required. Kindly help asap.,Unclassified,TCK1811,High,Finance,2026-02-19
+"Hello, My company portal is timed out. Please help.",Login Issue,TCK1076,High,Sales,2026-12-29
+Can you scan my printer?,Printer Issue,TCK1636,Medium,IT,2026-08-27
+"Hi, Unable to correct my attendance log because it is not updated. Regards.",Attendance,TCK1973,High,Finance,2026-02-15
+Facing an issue while trying to update the Postman.,Software Installation,TCK1938,High,HR,2026-02-14
+"hi, need access to github repo, request pending approval",Access Request,TCK1899,Low,Marketing,2026-04-21
+Can you access my office VPN?,VPN Issue,TCK1280,Low,Sales,2026-10-09
+urgent: network printer not detected on office wifi,Printer Issue,TCK1883,Medium,Sales,2026-07-31
+FYI - Unable to report my phishing email because it is needs verification. Kindly help asap.,Security/Phishing,TCK1761,Medium,Finance,2026-11-12
+unable to update my postman because it is upgrade required.,Software Installation,TCK1319,High,HR,2026-08-19
+Can you check my keyboard?,Hardware Issue,TCK1549,High,IT,2026-12-27
+FYI - My salary is pending. Please help. Thanks.,Payroll,TCK1174,High,Operations,2026-07-17
+Urgent: My calendar is login failed. Please help. Thanks.,Email Issue,TCK1371,Low,Sales,2026-09-09
+"Hello, The medical claim is update required.",HR Query,TCK1527,Medium,HR,2026-10-30
+FYI - I need to check my income statement. It is calculation error.,Payroll,TCK1210,High,HR,2026-11-10
+I need to verify my check-out. It is not updated.,Attendance,TCK1235,Medium,Marketing,2026-11-10
+Facing an issue while trying to login the company portal. Kindly help asap.,Login Issue,TCK1101,Low,HR,2026-06-18
+facing an issue while trying to update the domain password. thanks.,Password Reset,TCK1986,Medium,Finance,2026-11-03
+"Hi, Received suspicious email asking to reset my password Please advise.",Security/Phishing,TCK1902,High,Operations,2026-08-23
+Please help me question the ID card. Please advise.,Unclassified,TCK1947,Low,Finance,2026-05-14
+Unable to download my Python because it is failed. Thanks.,Software Installation,TCK1346,Low,IT,2026-06-10
+Unable to apply my annual leave because it is incorrect. Thanks.,Leave Management,TCK1139,Low,HR,2026-01-08
+FYI - Please resolve my router; it is slow.,Network Issue,TCK1621,Medium,Operations,2026-12-26
+Request to view the transfer policy. Regards.,HR Query,TCK1499,Low,Operations,2026-08-06
+"Hi team, The Python is installation error. Please advise.",Software Installation,TCK1370,High,Operations,2026-01-05
+Urgent: My payroll is delayed. Please help. Thanks.,Payroll,TCK1198,Medium,Sales,2026-08-14
+"Hi, Unable to scan my office printer because it is offline.",Printer Issue,TCK1687,High,IT,2026-01-03
+Unable to use my internet because it is packet loss. Thanks.,Network Issue,TCK1584,Medium,Sales,2026-06-03
+"Need access to GitHub repo, request pending approval Thanks.",Access Request,TCK1901,Medium,HR,2026-11-13
+Request to sign in the employee portal.,Login Issue,TCK1059,High,Marketing,2026-11-01
+"hello, need urgent help to download the chrome.",Software Installation,TCK1328,Low,Finance,2026-01-17
+Can you sign in my employee portal?,Login Issue,TCK1096,High,Marketing,2026-05-28
+Unable to open my VPN because it is error.,VPN Issue,TCK1312,Medium,IT,2026-01-06
+Need urgent help to need the server. Thanks.,Access Request,TCK1974,Medium,Operations,2026-05-23
+Please help me access the remote network.,VPN Issue,TCK1299,Low,IT,2026-02-15
+"Hi, Request to login the GlobalProtect VPN.",VPN Issue,TCK1277,Medium,Finance,2026-07-04
+"Hello, I need to upgrade my Anaconda. It is latest version.",Software Installation,TCK1924,Medium,IT,2026-07-24
+Facing an issue while trying to access the WiFi. Kindly help asap.,Network Issue,TCK1601,Medium,IT,2026-09-06
+Urgent: Please help me grant the shared drive.,Account Access,TCK1439,Medium,Finance,2026-05-14
+"Hi team, My ID card is today. Please help. Thanks.",Unclassified,TCK1837,High,Finance,2026-12-28
+Urgent: Please help me check the webcam. Kindly help asap.,Hardware Issue,TCK1570,High,Finance,2026-06-26
+"Cannot access shared drive, permission and login both failing",Login Issue,TCK1879,High,Finance,2026-12-17
+"Hi, Please help me correct the attendance. Thanks.",Attendance,TCK1261,Low,HR,2026-11-25
+"Hello, I need to check my monitor. It is not working. Kindly help asap.",Hardware Issue,TCK1578,Low,Operations,2026-07-19
+"Hi, The office password is locked. Please advise.",Password Reset,TCK1023,Medium,HR,2026-02-18
+The employee portal password is locked. Thanks.,Password Reset,TCK1030,Low,IT,2026-10-27
+"Hi team, Facing an issue while trying to check the WiFi. Kindly help asap.",Network Issue,TCK1617,High,HR,2026-06-04
+"Hi, Please resolve my office password; it is locked.",Password Reset,TCK1010,High,Sales,2026-03-15
+my check-in is absent marked. please help.,Attendance,TCK1221,Low,Sales,2026-03-04
+fyi - the parking is missing. thanks.,Unclassified,TCK1820,High,Finance,2026-10-24
+Request to authenticate the remote network. Thanks.,VPN Issue,TCK1296,Medium,HR,2027-01-01
+My company portal is timed out. Please help.,Login Issue,TCK1054,High,HR,2026-12-04
+Urgent: My monitor is slow. Please help. Kindly help asap.,Hardware Issue,TCK1542,High,Sales,2026-03-12
+Unable to view my bonus because it is calculation error. Thanks.,Payroll,TCK1209,Low,HR,2026-09-10
+Request to use the office network.,Network Issue,TCK1604,Low,Marketing,2026-07-06
+"Hello, Can you enable my shared folder? Kindly help asap.",Access Request,TCK1692,Medium,Marketing,2026-08-16
+Need urgent help to configure the HP printer. Kindly help asap.,Printer Issue,TCK1662,High,HR,2026-03-25
+"Forgot my VPN password, cannot connect Regards.",VPN Issue,TCK1866,High,Sales,2026-01-11
+Please help me access the employee portal. Thanks.,Login Issue,TCK1070,Medium,HR,2026-11-29
+Please help me replace the mouse. Thanks.,Hardware Issue,TCK1543,Medium,Finance,2026-10-09
+The earned leave is pending.,Leave Management,TCK1107,Medium,Marketing,2026-12-28
+My HR policy is missing. Please help. Thanks.,HR Query,TCK1493,Low,Sales,2026-10-06
+"hi team, the wifi is disconnected.",Network Issue,TCK1590,Low,Finance,2026-05-18
+"Hi team, Need urgent help to request the VPN access.",Access Request,TCK1741,Medium,IT,2026-10-18
+The office VPN is not connecting. Thanks.,VPN Issue,TCK1292,High,HR,2026-10-18
+"Hello, I need to connect my corporate VPN. It is timeout.",VPN Issue,TCK1289,High,Finance,2026-10-17
+The network printer is offline.,Printer Issue,TCK1652,Medium,Operations,2026-06-16
+"Hi team, Can you update my Windows password? Thanks.",Password Reset,TCK1039,Medium,IT,2026-01-02
+"Hi, Unable to use my WiFi because it is offline.",Network Issue,TCK1589,High,Marketing,2026-09-09
+Please resolve my secure network; it is error. Regards.,VPN Issue,TCK1307,Low,Operations,2026-08-25
+Facing an issue while trying to install the printer.,Printer Issue,TCK1679,Medium,Marketing,2026-06-21
+Urgent: Please resolve my company portal; it is not working.,Login Issue,TCK1066,Medium,Finance,2026-12-09
+Please resolve my office VPN; it is authentication failed.,VPN Issue,TCK1275,Medium,IT,2026-04-19
+Need urgent help to sign in the company portal. Thanks.,Login Issue,TCK1067,High,Marketing,2026-12-06
+Unable to configure my VS Code because it is license issue.,Software Installation,TCK1318,Low,Sales,2026-11-19
+"Hi team, The desktop is dead. Kindly help asap.",Hardware Issue,TCK1548,Low,HR,2026-02-14
+The system account is inactive.,Account Access,TCK1998,High,Sales,2026-01-02
+"Hi team, The server is missing.",Access Request,TCK1714,High,HR,2026-12-31
+Urgent: Unable to check my phishing email because it is received. Please advise.,Security/Phishing,TCK1753,Low,Operations,2026-07-09
+Facing an issue while trying to update the VS Code.,Software Installation,TCK1327,Medium,Operations,2026-09-09
+fyi - the corporate email is not working. thanks.,Email Issue,TCK1382,Medium,IT,2026-03-28
+"hi team, can you activate my network folder? regards.",Account Access,TCK1451,Low,IT,2026-12-20
+"Hi, The medical claim is clarification.",HR Query,TCK1522,Low,Operations,2026-06-15
+"Hi team, Please resolve my biometric record; it is error.",Attendance,TCK1218,High,Finance,2026-11-25
+FYI - Need urgent help to investigate the suspicious attachment.,Security/Phishing,TCK1787,High,Marketing,2026-10-08
+Need urgent help to restore the system account. Kindly help asap.,Account Access,TCK1436,Low,Operations,2026-10-01
+My phishing email is infected. Please help. Thanks.,Security/Phishing,TCK1764,Medium,HR,2026-07-12
+"Hi, I need to authenticate my company portal. It is timed out. Kindly help asap.",Login Issue,TCK1088,Low,Finance,2026-09-02
+Unable to sign in my HRMS because it is timed out. Regards.,Login Issue,TCK1063,Medium,Sales,2026-06-19
+Please help me help the ID card. Kindly help asap.,Unclassified,TCK1826,High,Finance,2026-12-18
+"Hello, My VPN access is access denied. Please help. Please advise.",Access Request,TCK1716,High,Finance,2026-08-27
+Urgent: Please resolve my Postman; it is not installed.,Software Installation,TCK1351,Low,Operations,2026-06-04
+FYI - Please resolve my scanner; it is printing failed. Regards.,Printer Issue,TCK1936,High,Operations,2026-07-22
+Please resolve my biometric record; it is not updated. Regards.,Attendance,TCK1256,High,IT,2026-02-01
+"Hi team, Facing an issue while trying to restore the router.",Network Issue,TCK1635,High,Marketing,2026-01-23
+Please resolve my HP printer; it is printing failed. Please advise.,Printer Issue,TCK1644,High,Marketing,2026-12-17
+"hello, facing an issue while trying to diagnose the laptop. kindly help asap.",Hardware Issue,TCK1554,High,HR,2026-12-13
+"Hello, My spam email is infected. Please help. Thanks.",Security/Phishing,TCK1959,Medium,Operations,2026-03-06
+please resolve my payroll; it is delayed.,Payroll,TCK1168,Medium,Operations,2026-06-05
+"Hi, Salary portal login not working, please check payroll Thanks.",Login Issue,TCK1917,High,Marketing,2026-09-06
+"Hi team, Unable to update my employee handbook because it is missing. Please advise.",HR Query,TCK1528,Low,HR,2026-11-19
+FYI - The general inquiry is today. Regards.,Unclassified,TCK1823,Medium,Operations,2026-02-24
+Unable to upgrade my Zoom because it is failed.,Software Installation,TCK1985,High,Sales,2026-01-22
+"hello, unable to help my cafeteria because it is status. please advise.",Unclassified,TCK1816,High,HR,2026-12-19
+FYI - Please help me sign in the ERP. Please advise.,Login Issue,TCK1086,High,Marketing,2026-03-06
+"Hello, Request to activate the user profile. Thanks.",Account Access,TCK1432,High,Finance,2026-10-15
+Request to download the bonus. Kindly help asap.,Payroll,TCK1184,High,HR,2026-08-12
+facing an issue while trying to login the erp.,Login Issue,TCK1978,High,Finance,2026-07-15
+"Hi, Unable to diagnose my laptop because it is broken.",Hardware Issue,TCK1534,High,Marketing,2026-03-02
+my vpn is authentication failed. please help.,VPN Issue,TCK1294,High,Marketing,2026-11-01
+"Hello, Laptop won't connect to office WiFi",Network Issue,TCK1892,Medium,Sales,2026-10-20
+"hi team, i need to grant my domain account. it is disabled. please advise.",Account Access,TCK1425,Low,Finance,2026-12-27
+Need urgent help to enable the shared folder.,Access Request,TCK1713,Medium,Sales,2026-07-01
+need urgent help to update the attendance.,Attendance,TCK1260,Medium,Finance,2026-12-25
+Need urgent help to update the check-in. Kindly help asap.,Attendance,TCK1237,High,Operations,2026-12-15
+"hi, please help me repair the laptop.",Hardware Issue,TCK1559,High,IT,2026-09-04
+Please help me check the internet. Kindly help asap.,Network Issue,TCK1583,Low,IT,2026-09-25
+"hi, need urgent help to restore the user profile.",Account Access,TCK1445,High,HR,2026-07-11
+"Hi team, Forgot my VPN password, cannot connect",VPN Issue,TCK1867,Medium,Marketing,2026-06-02
+Please help me check the general inquiry.,Unclassified,TCK1800,Low,Operations,2026-08-06
+FYI - Unable to check my WiFi because it is offline.,Network Issue,TCK1599,Low,Finance,2026-11-27
+"Hi team, VPN login keeps failing, invalid credentials Kindly help asap.",VPN Issue,TCK1849,Medium,HR,2026-11-16
+"Hello, My GlobalProtect VPN is timeout. Please help. Thanks.",VPN Issue,TCK1265,Medium,Marketing,2026-01-09
+Can you access my system? Thanks.,Login Issue,TCK1995,High,Sales,2026-02-26
+"Hi team, Request to view the emergency contact. Please advise.",HR Query,TCK1529,Low,Marketing,2026-07-27
+FYI - Please help me authenticate the dashboard. Thanks.,Login Issue,TCK1055,Low,Operations,2026-06-08
+The annual leave is rejected.,Leave Management,TCK1120,Medium,Finance,2026-12-08
+Urgent: Can you check my attendance log? Please advise.,Attendance,TCK1215,High,Marketing,2026-02-17
+FYI - Please help me forgot the Windows password.,Password Reset,TCK1025,Low,HR,2026-04-08
+"Hi, Facing an issue while trying to login the dashboard. Regards.",Login Issue,TCK1072,Medium,HR,2026-11-07
+FYI - Need urgent help to forgot the office password.,Password Reset,TCK1044,High,Operations,2026-05-08
+FYI - Can you correct my biometric record? Kindly help asap.,Attendance,TCK1247,High,Marketing,2026-09-26
+"Hi team, I need to grant my application. It is missing. Kindly help asap.",Access Request,TCK1721,Low,Marketing,2026-02-09
+"Hi, My remote network is not connecting. Please help.",VPN Issue,TCK1281,Medium,HR,2026-03-13
+"Outlook login failing, password might be wrong Thanks.",Email Issue,TCK1893,High,Operations,2026-11-10
+"Salary portal login not working, please check payroll",Payroll,TCK1914,High,Operations,2026-08-14
+Can you issue my general inquiry? Please advise.,Unclassified,TCK1810,Low,IT,2026-11-03
+"Hi, Request to check the working hours.",Attendance,TCK1244,Medium,Finance,2026-05-27
+Urgent: Request to check the general inquiry. Please advise.,Unclassified,TCK1822,High,IT,2026-02-20
+FYI - Please help me configure the VS Code. Please advise.,Software Installation,TCK1321,Medium,Operations,2026-09-08
+Please help me install the Canon printer.,Printer Issue,TCK1643,Low,Sales,2026-06-09
+"Hi, Please help me cancel the leave request.",Leave Management,TCK1158,Low,HR,2026-07-22
+"Hi, I need to login my office VPN. It is timeout. Thanks.",VPN Issue,TCK1977,High,Finance,2026-07-25
+The system account is disabled. Kindly help asap.,Account Access,TCK1429,High,IT,2026-12-16
+please help me recover the windows password. kindly help asap.,Password Reset,TCK1941,Medium,Sales,2026-09-20
+"Hi team, Please help me grant the system account.",Account Access,TCK1462,Medium,Marketing,2026-09-05
+Unable to login my office VPN because it is disconnecting. Regards.,VPN Issue,TCK1309,Medium,IT,2026-08-18
+FYI - Can you grant my server?,Access Request,TCK1697,Medium,Sales,2026-09-07
+My dashboard is blocked. Please help.,Login Issue,TCK1060,High,Sales,2026-03-23
+FYI - Network printer not detected on office WiFi Regards.,Network Issue,TCK1884,Low,HR,2026-12-24
+Urgent: Request to access the office network. Kindly help asap.,Network Issue,TCK1595,High,IT,2026-10-09
+"hi team, the spam email is received. kindly help asap.",Security/Phishing,TCK1767,Medium,Sales,2026-08-03
+Please resolve my Canon printer; it is paper jam. Please advise.,Printer Issue,TCK1649,Medium,IT,2026-12-19
+"Hi, Facing an issue while trying to scan the Canon printer. Regards.",Printer Issue,TCK1650,Low,Sales,2026-09-09
+"urgent: forgot my vpn password, cannot connect please advise.",Password Reset,TCK1865,Medium,Operations,2026-10-09
+"hello, please resolve my scanner; it is not detected. thanks.",Printer Issue,TCK1668,Low,HR,2026-12-11
+"Hi team, My VPN is failed. Please help. Kindly help asap.",VPN Issue,TCK1298,Medium,IT,2026-03-09
+Can you request my VPN access? Kindly help asap.,Access Request,TCK1689,Medium,Finance,2026-09-30
+My remote network is not connecting. Please help. Please advise.,VPN Issue,TCK1314,Low,Sales,2026-02-23
+Please resolve my secure network; it is authentication failed.,VPN Issue,TCK1310,High,Sales,2026-10-06
+Request to upgrade the VS Code. Regards.,Software Installation,TCK1361,Medium,Operations,2026-03-02
+Please resolve my medical claim; it is help needed.,HR Query,TCK1479,High,HR,2026-05-21
+"hi, can you cancel my annual leave?",Leave Management,TCK1110,High,Sales,2026-06-26
+FYI - Please resolve my Anaconda; it is upgrade required. Regards.,Software Installation,TCK1989,High,Sales,2026-05-20
+I need to check my maternity policy. It is required.,HR Query,TCK1486,High,Marketing,2026-07-19
+"Hi team, Facing an issue while trying to download the Zoom.",Software Installation,TCK1363,Low,Finance,2026-03-22
+Can you update my biometric record? Please advise.,Attendance,TCK1254,Medium,Operations,2026-11-07
+Need urgent help to verify the biometric record.,Attendance,TCK1259,Medium,Operations,2026-01-12
+"Hi team, Please help me issue the ID card.",Unclassified,TCK1802,Medium,Sales,2026-03-31
+Urgent: The scanner is offline. Kindly help asap.,Printer Issue,TCK1677,Medium,IT,2026-02-28
+Request to update the employee handbook. Please advise.,HR Query,TCK1494,Medium,Finance,2026-05-31
+FYI - I need to print my scanner. It is not detected.,Printer Issue,TCK1670,Medium,Marketing,2026-02-03
+"Hello, Facing an issue while trying to open the Exchange. Thanks.",Email Issue,TCK1377,High,Finance,2026-12-27
+Please help me submit the transfer policy. Please advise.,HR Query,TCK1526,Medium,Marketing,2026-03-02
+"hi, need urgent help to help the cafeteria.",Unclassified,TCK1845,Medium,Sales,2026-10-20
+FYI - The leave balance is pending. Please advise.,Leave Management,TCK1137,High,HR,2026-02-05
+urgent: i need to configure my python. it is latest version. please advise.,Software Installation,TCK1355,Low,Sales,2026-09-17
+The Chrome is license issue. Please advise.,Software Installation,TCK1365,Low,Marketing,2027-01-01
+The visitor pass is available.,Unclassified,TCK1942,Low,Finance,2026-11-28
+I need to verify my malware alert. It is received. Regards.,Security/Phishing,TCK1749,Low,HR,2026-11-20
+"Hello, Unable to access my network drive because it is slow. Kindly help asap.",Network Issue,TCK1948,High,HR,2026-03-03
+Please help me need the parking. Regards.,Unclassified,TCK1829,Low,Operations,2026-03-28
+Need urgent help to configure the office printer. Kindly help asap.,Printer Issue,TCK1656,Medium,Finance,2026-08-25
+"Hi, Need urgent help to check the payslip. Kindly help asap.",Payroll,TCK1199,High,Finance,2026-02-12
+please resolve my check-in; it is not updated.,Attendance,TCK1213,Low,Marketing,2026-03-20
+Urgent: My Exchange is not working. Please help.,Email Issue,TCK1408,High,Sales,2026-04-13
+"Hi, Facing an issue while trying to upgrade the Anaconda.",Software Installation,TCK1332,Low,HR,2026-10-29
+fyi - facing an issue while trying to download the payroll. regards.,Payroll,TCK1208,High,Finance,2026-06-03
+The router is disconnected. Regards.,Network Issue,TCK1613,High,IT,2026-11-23
+"Hello, Need urgent help to authenticate the ERP. Kindly help asap.",Login Issue,TCK1078,Low,Sales,2026-10-19
+Can you recover my VPN password? Regards.,Password Reset,TCK1029,Low,HR,2026-06-01
+please help me check the webcam.,Hardware Issue,TCK1535,High,Operations,2026-08-09
+Request to request the server. Thanks.,Access Request,TCK1695,High,Sales,2026-02-19
+My monitor is damaged. Please help. Regards.,Hardware Issue,TCK1557,Low,Sales,2026-04-13
+"Hi team, My visitor pass is available. Please help.",Unclassified,TCK1836,Low,Sales,2026-08-19
+Urgent: Request to connect the internet. Please advise.,Network Issue,TCK1596,Low,Operations,2026-04-22
+FYI - Please help me verify the income statement. Kindly help asap.,Payroll,TCK1165,High,HR,2026-05-01
+"hi, salary portal login not working, please check payroll",Login Issue,TCK1918,High,HR,2026-03-05
+The emergency contact is clarification.,HR Query,TCK1495,High,IT,2026-02-28
+Unable to help my ID card because it is today.,Unclassified,TCK1824,Low,Finance,2026-03-05
+FYI - Please resolve my company portal; it is failed. Kindly help asap.,Login Issue,TCK1065,Medium,Marketing,2026-10-07
+"Hi, Request to check the leave request.",Leave Management,TCK1141,High,Marketing,2026-02-25
+"Hi team, Unable to grant my user profile because it is locked.",Account Access,TCK1925,Medium,Sales,2026-05-26
+Urgent: Facing an issue while trying to check the visitor pass.,Unclassified,TCK1827,Low,Sales,2026-12-14
+Please help me install the HP printer.,Printer Issue,TCK1655,High,IT,2026-10-13
+"Hello, Facing an issue while trying to configure the VS Code. Regards.",Software Installation,TCK1331,Low,Finance,2026-01-17
+"Hi team, Unable to print my network printer because it is paper jam.",Printer Issue,TCK1664,Low,Sales,2026-09-12
+FYI - Can you check my attendance?,Attendance,TCK1249,High,HR,2026-03-31
+"Hi team, Received suspicious email asking to reset my password Thanks.",Password Reset,TCK1907,High,Sales,2026-06-04
+"Hi team, Can you request my database? Thanks.",Access Request,TCK1708,Medium,IT,2026-05-25
+Please resolve my GlobalProtect VPN; it is disconnecting.,VPN Issue,TCK1305,Medium,Finance,2026-05-30
+Need urgent help to enable the shared folder. Kindly help asap.,Access Request,TCK1734,High,IT,2026-11-24
+Urgent: Unable to check my annual leave because it is missing.,Leave Management,TCK1975,High,Marketing,2026-02-13
+Need urgent help to update the employee portal password.,Password Reset,TCK1049,Low,Operations,2026-08-12
+"Outlook login failing, password might be wrong Thanks.",Password Reset,TCK1896,Low,Marketing,2026-03-02
+Request to reset the VPN password.,Password Reset,TCK1002,High,Finance,2026-01-04
+"hi team, please resolve my desktop; it is slow.",Hardware Issue,TCK1544,Low,Sales,2026-11-04
+Need urgent help to upgrade the Chrome. Please advise.,Software Installation,TCK1350,Low,HR,2026-10-11
+Received suspicious email asking to reset my password Regards.,Security/Phishing,TCK1904,Medium,Operations,2026-11-02
+Request to check the keyboard.,Hardware Issue,TCK1536,Medium,Sales,2026-06-29
+"Hello, The Postman is latest version. Thanks.",Software Installation,TCK1344,Low,HR,2026-10-31
+Urgent: My account is expired. Please help.,Account Access,TCK1994,Low,Sales,2026-07-05
+Can you submit my medical claim? Regards.,HR Query,TCK1481,Low,Marketing,2027-01-01
+Can you fix my monitor? Kindly help asap.,Hardware Issue,TCK1575,Medium,Operations,2026-10-28
+Urgent: Please resolve my employee portal password; it is failed. Please advise.,Password Reset,TCK1033,Medium,HR,2026-05-16
+"hi team, facing an issue while trying to update the employee portal password.",Password Reset,TCK1031,Low,IT,2026-11-01
+Urgent: My working hours is failed. Please help.,Attendance,TCK1231,High,Marketing,2026-09-08
+Facing an issue while trying to change the office password.,Password Reset,TCK1963,Medium,Finance,2026-05-26
+Please help me verify the bonus.,Payroll,TCK1192,High,Marketing,2026-01-11
+my postman is installation error. please help.,Software Installation,TCK1333,Low,HR,2026-01-31
+Unable to recover my domain password because it is failed. Please advise.,Password Reset,TCK1003,Medium,IT,2026-02-17
+My income statement is missing. Please help. Regards.,Payroll,TCK1204,Medium,Finance,2026-08-16
+My HR policy is update required. Please help. Kindly help asap.,HR Query,TCK1514,Low,Operations,2026-06-19
+"Hi team, Need urgent help to help the ID card. Kindly help asap.",Unclassified,TCK1799,Medium,Sales,2026-10-15
+Facing an issue while trying to open the office VPN. Kindly help asap.,VPN Issue,TCK1306,Medium,Finance,2026-02-28
+Request to apply the leave balance. Kindly help asap.,Leave Management,TCK1109,High,Finance,2026-01-02
+I need to restore my domain account. It is inactive.,Account Access,TCK1430,Low,Finance,2026-11-08
+Unable to access my HRMS because it is blocked. Regards.,Login Issue,TCK1077,High,Sales,2026-08-27
+can you sign in my employee portal? kindly help asap.,Login Issue,TCK1084,High,Operations,2026-04-05
+Need urgent help to access the VPN. Please advise.,VPN Issue,TCK1286,High,Marketing,2026-05-10
+Can you sign in my company portal? Kindly help asap.,Login Issue,TCK1082,Medium,Sales,2026-10-11
+I need to need my general inquiry. It is missing.,Unclassified,TCK1991,High,Sales,2026-07-21
+FYI - My phishing email is clicked accidentally. Please help. Kindly help asap.,Security/Phishing,TCK1789,Low,Marketing,2026-03-24
+"Outlook login failing, password might be wrong Thanks.",Email Issue,TCK1894,Low,Finance,2026-12-26
+FYI - Need urgent help to access the Outlook.,Email Issue,TCK1398,Low,Operations,2026-10-17
+"hello, unable to upgrade my zoom because it is not installed. regards.",Software Installation,TCK1323,Low,HR,2026-06-06
+"Hello, Unable to update my emergency contact because it is help needed.",HR Query,TCK1519,Low,Operations,2026-05-03
+"Hi, Salary portal login not working, please check payroll Kindly help asap.",Payroll,TCK1916,Medium,Sales,2026-03-01
+"Hi, My salary is missing. Please help.",Payroll,TCK1922,Medium,Sales,2026-11-18
+FYI - Need urgent help to forgot the employee portal password.,Password Reset,TCK1005,Low,IT,2026-12-05
+"hi team, unable to grant my vpn access because it is required.",Access Request,TCK1731,Medium,IT,2026-09-26
+Request to activate the system account. Regards.,Account Access,TCK1465,High,Marketing,2026-12-19
+Urgent: Facing an issue while trying to login the company portal. Regards.,Login Issue,TCK1097,Medium,Marketing,2026-10-04
+"Hi team, The VPN is failed.",VPN Issue,TCK1266,High,IT,2026-05-06
+Can you install my Anaconda? Please advise.,Software Installation,TCK1357,Low,Marketing,2026-06-17
+"Hello, Forgot my VPN password, cannot connect",VPN Issue,TCK1868,High,Operations,2026-02-16
+Need urgent help to check the ID card. Thanks.,Unclassified,TCK1798,Medium,Sales,2026-03-17
+the exchange is not working. thanks.,Email Issue,TCK1380,Low,HR,2026-04-12
+FYI - Please resolve my internet; it is disconnected.,Network Issue,TCK1631,Medium,Marketing,2026-03-16
+"Hello, Need urgent help to open the calendar.",Email Issue,TCK1381,Low,IT,2026-02-03
+Unable to view my HR policy because it is missing. Thanks.,HR Query,TCK1490,Medium,Finance,2026-10-12
+fyi - unable to cancel my leave balance because it is pending.,Leave Management,TCK1118,Medium,Finance,2026-08-09
+"Urgent: Need access to GitHub repo, request pending approval Regards.",Access Request,TCK1900,Medium,HR,2026-07-29
+FYI - Please resolve my working hours; it is failed. Thanks.,Attendance,TCK1250,Low,HR,2026-03-13
+Urgent: Please help me submit the transfer policy.,HR Query,TCK1523,Low,Sales,2026-12-01
+"Hi team, The password is expired.",Password Reset,TCK1009,Medium,IT,2026-04-19
+"Hi, Unable to view my salary because it is pending. Thanks.",Payroll,TCK1196,Low,HR,2026-01-22
+Facing an issue while trying to use the network drive. Thanks.,Network Issue,TCK1603,Medium,Finance,2026-05-15
+"Hi, Need urgent help to access the dashboard. Regards.",Login Issue,TCK1081,Medium,IT,2026-02-17
+The phishing email is received. Please advise.,Security/Phishing,TCK1783,Low,IT,2026-03-26
+Can you connect my office network?,Network Issue,TCK1587,High,Operations,2026-12-17
+Can you check my cafeteria?,Unclassified,TCK1797,High,IT,2026-09-20
+FYI - The check-out is not updated.,Attendance,TCK1239,High,Finance,2026-05-28
+Please help me open the VPN.,VPN Issue,TCK1290,High,Sales,2026-05-19
+"Hi, Please help me download the bonus.",Payroll,TCK1211,Medium,Marketing,2026-02-07
+"Hello, Request to request the VPN access. Please advise.",Access Request,TCK1717,High,Operations,2026-12-09
+"Hi, The Chrome is latest version.",Software Installation,TCK1359,Medium,Operations,2026-12-03
+My shared drive is disabled. Please help.,Account Access,TCK1449,Low,HR,2026-03-09
+My working hours is missing. Please help. Please advise.,Attendance,TCK1227,Medium,IT,2026-07-17
+"Hello, I need to update my tax deduction. It is missing.",Payroll,TCK1950,Low,Marketing,2026-01-22
+"Hello, Unable to issue my parking because it is required. Regards.",Unclassified,TCK1946,Low,HR,2026-03-22
+"Hi team, Facing an issue while trying to help the cafeteria.",Unclassified,TCK1796,High,Marketing,2026-04-24
+fyi - unable to view my maternity policy because it is update required. thanks.,HR Query,TCK1501,Low,HR,2026-05-09
+"hi, facing an issue while trying to restore the account. thanks.",Account Access,TCK1464,High,Finance,2026-01-07
+I need to upgrade my Chrome. It is license issue. Thanks.,Software Installation,TCK1362,High,Operations,2026-02-09
+I need to activate my domain account. It is expired.,Account Access,TCK1468,Low,Sales,2026-08-16
+"Hello, Request to request the GitHub access. Thanks.",Access Request,TCK1935,Medium,Sales,2026-12-21
+"hello, my domain account is permission denied. please help. kindly help asap.",Account Access,TCK1428,Low,HR,2026-10-20
+Urgent: My office password is locked. Please help. Regards.,Password Reset,TCK1007,High,IT,2026-11-08
+Urgent: Facing an issue while trying to cancel the casual leave. Regards.,Leave Management,TCK1155,High,Marketing,2026-02-13
+Please resolve my webcam; it is slow.,Hardware Issue,TCK1541,High,Sales,2026-04-02
+"Hi, Please resolve my user profile; it is locked. Thanks.",Account Access,TCK1440,High,Marketing,2026-11-14
+Can you check my transfer policy?,HR Query,TCK1482,High,Finance,2026-12-30
+Urgent: Facing an issue while trying to send the corporate email. Regards.,Email Issue,TCK1422,Medium,Finance,2026-08-02
+FYI - My phishing email is possible attack. Please help.,Security/Phishing,TCK1778,Medium,Finance,2026-03-31
+"Hi team, Facing an issue while trying to open the mailbox.",Email Issue,TCK1949,Medium,HR,2026-12-20
+Please resolve my Zoom; it is license issue. Please advise.,Software Installation,TCK1334,High,Finance,2026-05-29
+request to check the mouse.,Hardware Issue,TCK1576,High,HR,2026-12-05
+"Hello, My domain account is disabled. Please help. Regards.",Account Access,TCK1934,Medium,Operations,2026-02-24
+Need urgent help to check the desktop.,Hardware Issue,TCK1567,Low,Sales,2026-09-13
+Please help me access the office network. Regards.,Network Issue,TCK1594,Low,Sales,2026-02-18
+Urgent: Please resolve my webcam; it is not working. Thanks.,Hardware Issue,TCK1530,High,Sales,2026-09-04
+Facing an issue while trying to replace the webcam.,Hardware Issue,TCK1581,High,Operations,2026-11-22
+"hello, can you provide my application?",Access Request,TCK1707,High,Sales,2026-03-07
+Can you enable my user profile?,Account Access,TCK1448,Medium,Operations,2026-03-10
+"Hello, I need to enable my user profile. It is inactive. Regards.",Account Access,TCK1453,High,Marketing,2026-12-25
+"Hello, Request to verify the biometric record. Please advise.",Attendance,TCK1228,Medium,Finance,2026-06-23
+The Zoom is not installed. Regards.,Software Installation,TCK1352,High,IT,2026-05-03
+FYI - Can you provide my server?,Access Request,TCK1728,Low,IT,2026-09-30
+"Hi, Unable to update my attendance log because it is missing.",Attendance,TCK1212,Medium,HR,2026-10-10
+"Hi, Please resolve my ERP; it is failed.",Login Issue,TCK1079,Medium,HR,2026-07-01
+"hello, facing an issue while trying to check the leave balance.",Leave Management,TCK1148,High,Finance,2026-03-08
+"Hello, Can you login my remote network? Please advise.",VPN Issue,TCK1302,Medium,Finance,2026-09-05
+Need urgent help to access the LAN. Please advise.,Network Issue,TCK1628,High,Marketing,2026-04-11
+"Hello, Please resolve my malware alert; it is clicked accidentally.",Security/Phishing,TCK1777,High,IT,2026-09-21
+The transfer policy is clarification. Kindly help asap.,HR Query,TCK1506,Low,Finance,2026-12-13
+I need to download my VS Code. It is upgrade required. Regards.,Software Installation,TCK1342,Medium,IT,2026-12-02
+unable to check my transfer policy because it is not available.,HR Query,TCK1485,Medium,HR,2026-10-05
+need urgent help to need the database. please advise.,Access Request,TCK1711,High,IT,2026-03-15
+can you view my leave balance?,Leave Management,TCK1133,Medium,Finance,2026-12-10
+"Hi, Please resolve my GitHub access; it is missing. Kindly help asap.",Access Request,TCK1703,Medium,HR,2026-06-07
+"Hello, I need to login my corporate VPN. It is error. Thanks.",VPN Issue,TCK1311,High,Operations,2026-07-01
+Urgent: Can you grant my shared folder? Kindly help asap.,Access Request,TCK1722,Low,Operations,2026-02-27
+request to restore the router. please advise.,Network Issue,TCK1629,Medium,Finance,2026-12-17
+please help me forgot the vpn password. please advise.,Password Reset,TCK1000,Low,Operations,2026-10-07
+"Hi, Facing an issue while trying to login the remote network. Regards.",VPN Issue,TCK1316,Medium,IT,2026-06-03
+"Hi, Can you provide my VPN access? Please advise.",Access Request,TCK1706,Medium,Finance,2026-10-19
+Facing an issue while trying to check the laptop. Kindly help asap.,Hardware Issue,TCK1547,High,Marketing,2026-09-22
+Account locked after wrong password attempts,Password Reset,TCK1872,Low,Sales,2026-04-22
+FYI - Request to fix the desktop.,Hardware Issue,TCK1532,Low,HR,2026-07-13
+"Hi, Facing an issue while trying to submit the emergency contact. Thanks.",HR Query,TCK1477,Low,Marketing,2026-08-10
+"Hello, My Exchange is full. Please help.",Email Issue,TCK1404,Low,Finance,2026-11-01
+"Hello, Facing an issue while trying to download the bonus.",Payroll,TCK1172,Low,HR,2026-12-29
+Urgent: My leave request is rejected. Please help. Regards.,Leave Management,TCK1125,High,Operations,2026-03-12
+i need to send my corporate email. it is stuck.,Email Issue,TCK1394,High,Finance,2026-02-07
+Need urgent help to receive the email account. Thanks.,Email Issue,TCK1420,Medium,Operations,2026-05-02
+"Hello, Please help me diagnose the keyboard.",Hardware Issue,TCK1552,Medium,Marketing,2026-10-22
+"Hello, Received suspicious email asking to reset my password Thanks.",Security/Phishing,TCK1903,Medium,Operations,2026-07-23
+"Hello, Please resolve my employee portal; it is not working.",Login Issue,TCK1090,High,Marketing,2026-11-13
+"Hi team, Facing an issue while trying to download the maternity policy. Thanks.",HR Query,TCK1939,Low,Operations,2026-12-26
+"Hi, The income statement is delayed. Please advise.",Payroll,TCK1181,Medium,Sales,2026-04-10
+Request to access the VPN. Regards.,VPN Issue,TCK1274,Low,IT,2026-04-07
+"Outlook login failing, password might be wrong Thanks.",Email Issue,TCK1895,Medium,Marketing,2026-05-14
+FYI - My company portal is invalid credentials. Please help.,Login Issue,TCK1069,Medium,Sales,2026-05-10
+I need to connect my corporate VPN. It is disconnecting.,VPN Issue,TCK1291,Low,Finance,2026-01-09
+need urgent help to cancel the leave balance.,Leave Management,TCK1131,High,Finance,2026-11-09
+FYI - My VPN is error. Please help.,VPN Issue,TCK1300,Medium,Sales,2026-07-18
+Urgent: I need to activate my domain account. It is locked. Regards.,Account Access,TCK1424,Low,Marketing,2026-10-19
+FYI - Facing an issue while trying to upgrade the VS Code.,Software Installation,TCK1326,Low,Finance,2026-01-05
+please help me check the sick leave. thanks.,Leave Management,TCK1144,High,Operations,2026-10-27
+Please resolve my corporate email; it is login failed.,Email Issue,TCK1423,Medium,Marketing,2026-07-11
+FYI - I need to repair my webcam. It is damaged.,Hardware Issue,TCK1580,High,Finance,2026-10-08
+Can you check my leave request?,Leave Management,TCK1135,Low,Finance,2026-02-20
+The network folder is expired. Thanks.,Account Access,TCK1450,High,IT,2026-07-12
+FYI - Please help me update the bonus. Please advise.,Payroll,TCK1164,Low,IT,2026-09-19
+"Hi team, Facing an issue while trying to recover the office password. Please advise.",Password Reset,TCK1028,Medium,Finance,2026-08-21
+the malware alert is received. please advise.,Security/Phishing,TCK1773,Medium,HR,2026-11-28
+Need urgent help to update the salary. Kindly help asap.,Payroll,TCK1193,Low,Finance,2026-02-04
+"Hi team, Please resolve my Outlook; it is sync failed.",Email Issue,TCK1388,High,Finance,2026-10-27
+"VPN login keeps failing, invalid credentials Kindly help asap.",Login Issue,TCK1852,High,Finance,2026-09-16
+Can you verify my salary? Thanks.,Payroll,TCK1169,Medium,IT,2026-01-30
+"hi team, the vpn access is waiting.",Access Request,TCK1705,Low,Sales,2026-09-30
+"Hi team, My annual leave is incorrect. Please help. Please advise.",Leave Management,TCK1140,Low,Operations,2026-08-04
+Facing an issue while trying to update the income statement. Kindly help asap.,Payroll,TCK1173,Medium,Sales,2026-07-29
+"Hello, The password is expired.",Password Reset,TCK1006,High,Finance,2026-03-25
+Facing an issue while trying to block the spam email. Thanks.,Security/Phishing,TCK1745,High,HR,2026-09-08
+Please resolve my emergency contact; it is missing. Regards.,HR Query,TCK1478,Low,Sales,2026-12-03
+"hello, please resolve my hrms; it is invalid credentials.",Login Issue,TCK1073,Medium,Marketing,2026-12-13
+Attendance biometric not syncing with network Thanks.,Attendance,TCK1910,High,Sales,2026-03-14
+My cafeteria is missing. Please help.,Unclassified,TCK1813,Low,Marketing,2026-11-11
+Can you correct my working hours? Kindly help asap.,Attendance,TCK1238,Low,Finance,2026-05-28
+Request to cancel the earned leave. Kindly help asap.,Leave Management,TCK1145,High,Sales,2026-02-20
+My suspicious attachment is possible attack. Please help. Please advise.,Security/Phishing,TCK1792,Low,IT,2026-07-27
+Please resolve my check-in; it is error. Thanks.,Attendance,TCK1234,High,IT,2026-04-08
+Facing an issue while trying to verify the working hours. Kindly help asap.,Attendance,TCK1220,Medium,Operations,2026-06-13
+"Hi, Please resolve my shared drive; it is locked. Kindly help asap.",Account Access,TCK1923,High,Marketing,2026-03-08
+Please help me download the emergency contact. Regards.,HR Query,TCK1500,Low,Operations,2026-12-18
+Urgent: The leave request is not updated. Regards.,Leave Management,TCK1132,Low,IT,2026-01-20
+FYI - My corporate email is login failed. Please help. Thanks.,Email Issue,TCK1990,Low,Operations,2026-01-02
+Urgent: Please help me report the unknown link. Please advise.,Security/Phishing,TCK1774,High,Operations,2026-10-26
+"hi team, please help me view the tax deduction.",Payroll,TCK1185,High,Finance,2026-05-01
+i need to forgot my password. it is locked.,Password Reset,TCK1041,Medium,Marketing,2026-10-10
+"Hi, Facing an issue while trying to grant the application.",Access Request,TCK1696,Low,HR,2026-11-12
+Can you view my earned leave?,Leave Management,TCK1108,Medium,HR,2026-11-03
+Can you use my router?,Network Issue,TCK1588,Low,IT,2026-04-04
+"Hi team, The HRMS is failed. Please advise.",Login Issue,TCK1056,High,IT,2026-08-22
+Please resolve my calendar; it is not working. Regards.,Email Issue,TCK1405,Medium,HR,2026-01-28
+FYI - I need to grant my domain account. It is disabled.,Account Access,TCK1442,Medium,HR,2026-06-11
+Request to verify the unknown link.,Security/Phishing,TCK1757,High,HR,2026-09-13
+"Hello, Please help me open the office VPN. Please advise.",VPN Issue,TCK1997,High,HR,2026-09-25
+Please help me recover the domain password.,Password Reset,TCK1024,Low,Operations,2026-12-01
+"Hi team, Unable to activate my network folder because it is locked. Regards.",Account Access,TCK1467,High,Sales,2026-09-11
+Please help me diagnose the laptop. Regards.,Hardware Issue,TCK1539,Medium,Finance,2026-02-24
+Unable to replace my mouse because it is overheating.,Hardware Issue,TCK1531,Low,Marketing,2026-12-04
+FYI - I need to use my LAN. It is disconnected. Thanks.,Network Issue,TCK1618,High,Finance,2026-10-11
+"Hi, Unable to enable my VPN access because it is waiting.",Access Request,TCK1694,Medium,HR,2027-01-01
+Urgent: Please help me update the working hours. Regards.,Attendance,TCK1926,Medium,Operations,2026-02-19
+"Hi, Request to upgrade the Postman.",Software Installation,TCK1338,Low,Operations,2026-02-17
+My VPN password is failed. Please help. Kindly help asap.,Password Reset,TCK1051,Medium,Sales,2026-12-23
+my emergency contact is help needed. please help. thanks.,HR Query,TCK1507,High,Marketing,2026-07-21
+Please help me check the HR policy. Kindly help asap.,HR Query,TCK1516,High,IT,2026-02-08
+"Hi team, Please resolve my domain account; it is expired.",Account Access,TCK1920,Low,Sales,2026-02-09
+FYI - Need urgent help to check the phishing email. Kindly help asap.,Security/Phishing,TCK1781,High,Marketing,2026-03-04
+Can you verify my attendance log?,Attendance,TCK1264,Low,HR,2026-08-24
+The parking is missing. Thanks.,Unclassified,TCK1817,Low,IT,2026-01-10
+need urgent help to enable the shared folder.,Access Request,TCK1710,High,Sales,2026-07-04
+Can you print my scanner?,Printer Issue,TCK1682,High,Sales,2026-04-06
+facing an issue while trying to issue the id card. kindly help asap.,Unclassified,TCK1832,Medium,IT,2026-03-04
+Request to submit the maternity policy. Kindly help asap.,HR Query,TCK1518,High,Operations,2026-05-29
+My domain account is locked. Please help.,Account Access,TCK1447,Low,IT,2026-01-24
+"Hello, Can you reset my password? Thanks.",Password Reset,TCK1018,Low,Marketing,2026-03-06
+FYI - Request to grant the server. Thanks.,Access Request,TCK1715,High,Sales,2026-12-27
+Please help me check the emergency contact. Regards.,HR Query,TCK1483,High,Finance,2026-08-05
+FYI - Unable to diagnose my monitor because it is dead.,Hardware Issue,TCK1568,Medium,Marketing,2026-10-18
+"hello, please resolve my shared drive; it is permission denied.",Account Access,TCK1433,Medium,Operations,2026-06-16
+Please help me configure the Postman. Please advise.,Software Installation,TCK1367,Low,Sales,2026-02-05
+Request to authenticate the company portal. Kindly help asap.,Login Issue,TCK1083,Medium,Finance,2026-06-06
+Urgent: Facing an issue while trying to access the ERP.,Login Issue,TCK1061,Medium,Operations,2026-05-03
+I need to connect my office printer. It is driver error.,Printer Issue,TCK1638,High,IT,2026-06-11
+"Hi, The corporate VPN is timeout. Thanks.",VPN Issue,TCK1272,Medium,Marketing,2026-09-29
+Urgent: Need urgent help to connect the VPN.,VPN Issue,TCK1285,Low,Marketing,2026-12-24
+unable to install my python because it is upgrade required. regards.,Software Installation,TCK1360,Medium,Finance,2026-09-25
+My Chrome is not installed. Please help. Kindly help asap.,Software Installation,TCK1354,Low,Sales,2026-02-07
+"Hi, Request to restore the domain account. Kindly help asap.",Account Access,TCK1456,Low,Operations,2026-02-15
+"Hi, Request to authenticate the remote network.",VPN Issue,TCK1278,Low,Finance,2026-06-10
+need urgent help to change the office password.,Password Reset,TCK1012,Low,IT,2026-03-20
+Urgent: My tax deduction is not credited. Please help.,Payroll,TCK1182,High,Sales,2026-03-24
+"Hello, Facing an issue while trying to upgrade the Anaconda.",Software Installation,TCK1368,Medium,HR,2026-05-30
+Network printer not detected on office WiFi Kindly help asap.,Printer Issue,TCK1881,Low,Finance,2026-04-18
+Request to use the router.,Network Issue,TCK1615,Medium,Finance,2026-10-09
+FYI - The check-out is failed. Please advise.,Attendance,TCK1223,Medium,Marketing,2026-08-28
+Can you fix my keyboard?,Hardware Issue,TCK1572,Medium,IT,2026-07-15
+urgent: my bonus is delayed. please help.,Payroll,TCK1970,Low,HR,2026-10-29
+"Hi team, Facing an issue while trying to scan the HP printer.",Printer Issue,TCK1653,Medium,Operations,2026-06-10
+need urgent help to repair the laptop. kindly help asap.,Hardware Issue,TCK1545,Low,Operations,2026-07-16
+Please resolve my monitor; it is dead. Kindly help asap.,Hardware Issue,TCK1582,Medium,Marketing,2026-04-27
+"Hi team, The LAN is not working. Kindly help asap.",Network Issue,TCK1633,Low,Finance,2026-08-19
+"Hello, Can you update my payslip? Kindly help asap.",Payroll,TCK1176,High,Finance,2026-03-07
+"Hi, Facing an issue while trying to configure the printer. Please advise.",Printer Issue,TCK1665,High,Sales,2026-08-21
+Urgent: Can you install my Canon printer?,Printer Issue,TCK1673,High,Finance,2026-03-08
+i need to check my internet. it is dns error.,Network Issue,TCK1585,Medium,HR,2026-07-30
+Account locked after wrong password attempts Thanks.,Password Reset,TCK1873,Medium,Sales,2026-07-29
+request to sync the outlook.,Email Issue,TCK1393,High,HR,2026-06-15
+Please help me update the salary.,Payroll,TCK1163,Medium,Operations,2026-07-05
+Urgent: Facing an issue while trying to check the biometric record. Please advise.,Attendance,TCK1248,Medium,HR,2026-08-23
+Facing an issue while trying to connect the internet. Please advise.,Network Issue,TCK1634,High,Finance,2026-10-08
+urgent: network printer not detected on office wifi,Network Issue,TCK1885,Medium,Marketing,2026-10-08
+Can you configure my office printer? Please advise.,Printer Issue,TCK1669,High,Marketing,2026-07-04
+My Exchange is sync failed. Please help. Thanks.,Email Issue,TCK1375,Low,Marketing,2026-02-25
+my exchange is stuck. please help.,Email Issue,TCK1412,Medium,Marketing,2026-08-03
+"Hello, Need urgent help to access the system.",Login Issue,TCK1074,High,HR,2026-02-22
+Unable to view my leave balance because it is rejected.,Leave Management,TCK1113,Low,Sales,2026-02-21
+"Hi, Need urgent help to access the WiFi. Regards.",Network Issue,TCK1598,Medium,IT,2026-05-08
+Urgent: Request to update the domain password. Regards.,Password Reset,TCK1961,High,IT,2026-01-31
+Please resolve my mailbox; it is full. Please advise.,Email Issue,TCK1390,High,Operations,2026-07-03
+Facing an issue while trying to access the employee portal. Kindly help asap.,Login Issue,TCK1104,Medium,Operations,2026-08-15
+Request to view the leave balance.,Leave Management,TCK1114,Low,IT,2026-08-29
+Can you access my Exchange?,Email Issue,TCK1417,Medium,HR,2026-03-17
+"Hi team, My maternity policy is clarification. Please help.",HR Query,TCK1525,Medium,HR,2026-04-28
+Please help me activate the system account. Thanks.,Account Access,TCK1457,Low,Operations,2026-02-21
+Urgent: Please help me send the corporate email. Thanks.,Email Issue,TCK1409,Low,Finance,2026-07-23
+"Hello, Please resolve my dashboard; it is blocked.",Login Issue,TCK1092,Low,Finance,2026-12-05
+Unable to download my transfer policy because it is not available.,HR Query,TCK1930,High,IT,2026-10-10
+"Hello, Please help me login the company portal.",Login Issue,TCK1089,Low,HR,2026-03-18
+FYI - Unable to update my VS Code because it is failed.,Software Installation,TCK1336,High,Sales,2026-09-08
+"hello, can you check my earned leave?",Leave Management,TCK1988,High,Finance,2026-08-10
+Urgent: Facing an issue while trying to send the mailbox. Regards.,Email Issue,TCK1921,Low,Sales,2026-07-11
+Urgent: Need urgent help to connect the VPN. Kindly help asap.,VPN Issue,TCK1933,Medium,Operations,2026-08-19
+"Hello, Please resolve my internet; it is offline. Regards.",Network Issue,TCK1605,Medium,HR,2026-09-26
+I need to use my office network. It is slow.,Network Issue,TCK1593,Medium,Sales,2026-01-07
+"hi team, i need to restore my internet. it is dns error. regards.",Network Issue,TCK1611,Medium,IT,2026-04-21
+Please resolve my ERP; it is failed. Kindly help asap.,Login Issue,TCK1094,High,Sales,2026-02-06
+Can you reset my office password?,Password Reset,TCK1011,High,Sales,2026-10-26
+Facing an issue while trying to open the corporate email. Regards.,Email Issue,TCK1396,High,Finance,2026-04-25
+Need urgent help to replace the laptop.,Hardware Issue,TCK1533,High,Operations,2026-08-03
+The domain password is not received.,Password Reset,TCK1043,Low,HR,2026-04-01
+Urgent: Unable to recover my office password because it is not working. Kindly help asap.,Password Reset,TCK1042,Low,Finance,2026-04-18
+Can you update my Zoom?,Software Installation,TCK1329,High,Sales,2026-10-09
+"Hi, Facing an issue while trying to update the income statement. Regards.",Payroll,TCK1167,High,Operations,2026-11-22
+Urgent: Need urgent help to check the emergency contact. Thanks.,HR Query,TCK1497,Medium,Marketing,2026-09-18
+"Urgent: Cannot access shared drive, permission and login both failing",Account Access,TCK1876,Medium,Sales,2026-07-08
+FYI - Please help me access the router. Thanks.,Network Issue,TCK1597,Medium,Marketing,2026-03-03
+"hi, please resolve my unknown link; it is needs verification. regards.",Security/Phishing,TCK1756,Low,Operations,2026-05-19
+"Hi, Unable to access my dashboard because it is blocked. Kindly help asap.",Login Issue,TCK1100,High,Sales,2026-11-22
+The shared drive is access denied.,Account Access,TCK1426,Low,Operations,2026-01-16
+The tax deduction is incorrect. Please advise.,Payroll,TCK1178,Medium,IT,2026-09-17
+"Hi, The network folder is disabled.",Account Access,TCK1444,Low,HR,2026-11-11
+"Hello, Unable to access my mailbox because it is sync failed. Thanks.",Email Issue,TCK1416,Medium,Marketing,2026-06-16
+Account locked after wrong password attempts Thanks.,Account Access,TCK1870,High,Marketing,2026-05-09
+Network printer not detected on office WiFi,Printer Issue,TCK1882,High,Sales,2026-01-18
+Facing an issue while trying to install the office printer. Kindly help asap.,Printer Issue,TCK1680,High,Finance,2026-10-12
+Request to download the payroll.,Payroll,TCK1177,Medium,Finance,2026-04-03
+FYI - My email account is not working. Please help. Kindly help asap.,Email Issue,TCK1395,Low,Operations,2026-08-12
+Urgent: Attendance biometric not syncing with network Thanks.,Network Issue,TCK1911,Low,Sales,2026-05-24
+Facing an issue while trying to block the unknown link. Thanks.,Security/Phishing,TCK1793,High,Marketing,2026-06-19
+Urgent: The emergency contact is help needed.,HR Query,TCK1960,High,HR,2026-01-12
+The HP printer is not detected.,Printer Issue,TCK1684,Low,Finance,2026-01-20
+"Hi, Please resolve my calendar; it is login failed. Thanks.",Email Issue,TCK1383,Medium,HR,2026-07-01
+i need to provide my github access. it is waiting.,Access Request,TCK1956,High,Operations,2026-12-05
+Please resolve my spam email; it is received.,Security/Phishing,TCK1751,High,Operations,2026-07-25
+Request to correct the check-in. Please advise.,Attendance,TCK1257,High,Sales,2026-03-01
+Please resolve my mouse; it is damaged. Thanks.,Hardware Issue,TCK1538,Low,Marketing,2026-09-25
+"Hello, Please resolve my Zoom; it is upgrade required. Please advise.",Software Installation,TCK1335,Medium,IT,2026-05-22
+"Hi, Please help me change the Windows password. Thanks.",Password Reset,TCK1015,High,Finance,2026-09-14
+Please help me update the Anaconda.,Software Installation,TCK1324,High,HR,2026-10-22
+fyi - please resolve my security warning; it is infected.,Security/Phishing,TCK1758,Low,HR,2026-03-02
+"Hello, Can you verify my check-in? Thanks.",Attendance,TCK1222,Medium,Marketing,2026-08-03
+FYI - Request to verify the salary.,Payroll,TCK1179,High,Sales,2026-03-20
+"Hi, Facing an issue while trying to diagnose the mouse. Thanks.",Hardware Issue,TCK1983,Low,IT,2026-05-18
+FYI - I need to reset my password. It is not working. Thanks.,Password Reset,TCK1022,Medium,Operations,2026-09-06
+Can you configure my Chrome? Thanks.,Software Installation,TCK1356,High,Marketing,2026-03-20
+"Hi team, Need urgent help to install the printer. Please advise.",Printer Issue,TCK1666,Medium,Marketing,2026-11-18
+Employee portal password is not working Kindly help asap.,Login Issue,TCK1861,High,HR,2026-05-12
+My Anaconda is not installed. Please help.,Software Installation,TCK1340,Medium,Operations,2026-01-25
+FYI - Can you enable my user profile?,Account Access,TCK1431,Medium,Finance,2026-12-13
+"Hi team, The mouse is overheating. Kindly help asap.",Hardware Issue,TCK1551,High,IT,2026-10-14
+can you question my id card? thanks.,Unclassified,TCK1833,Low,IT,2026-09-13
+"hi, unable to download my payslip because it is calculation error. thanks.",Payroll,TCK1203,Low,Operations,2026-07-07
+Please resolve my WiFi; it is offline.,Network Issue,TCK1630,Low,Finance,2026-06-26
+Please help me sign in the HRMS. Thanks.,Login Issue,TCK1093,Medium,Sales,2026-12-19
+The keyboard is broken. Please advise.,Hardware Issue,TCK1558,High,Finance,2026-03-21
+I need to login my system. It is timed out.,Login Issue,TCK1068,Low,Finance,2026-07-14
+Urgent: Please resolve my network drive; it is offline. Thanks.,Network Issue,TCK1622,High,Sales,2026-02-10
+"Hi, Facing an issue while trying to login the VPN. Regards.",VPN Issue,TCK1284,Low,Marketing,2026-10-10
+"Hi team, Unable to need my visitor pass because it is required.",Unclassified,TCK1844,Medium,Marketing,2026-09-21
+urgent: can you enable my system account? please advise.,Account Access,TCK1434,Low,IT,2026-11-04
+Urgent: I need to apply my sick leave. It is missing. Kindly help asap.,Leave Management,TCK1153,Low,HR,2026-10-17
+FYI - Can you login my dashboard?,Login Issue,TCK1075,Medium,IT,2026-09-17
+Please resolve my server; it is waiting. Regards.,Access Request,TCK1730,Low,Marketing,2026-06-22
+"hi team, i need to enable my network folder. it is disabled. regards.",Account Access,TCK1446,High,HR,2026-04-26
+Urgent: Please resolve my salary; it is missing. Please advise.,Payroll,TCK1188,High,Operations,2026-11-08
+Urgent: My remote network is timeout. Please help.,VPN Issue,TCK1271,High,Sales,2026-05-04
+Facing an issue while trying to regularize the attendance log. Please advise.,Attendance,TCK1236,High,Sales,2026-09-27
+"Hi team, The transfer policy is not available.",HR Query,TCK1487,High,Finance,2026-10-10
+Can you apply my leave request? Thanks.,Leave Management,TCK1117,High,IT,2026-08-16
+FYI - Facing an issue while trying to request the server.,Access Request,TCK1943,Low,HR,2026-05-28
+Please help me check the emergency contact. Kindly help asap.,HR Query,TCK1512,Medium,Marketing,2026-12-04
+"Hi, Facing an issue while trying to need the visitor pass.",Unclassified,TCK1825,Medium,Marketing,2026-01-21
+Unable to check my router because it is slow. Thanks.,Network Issue,TCK1591,Medium,HR,2026-06-25
+"Hi team, Please help me check the sick leave.",Leave Management,TCK1126,Low,IT,2026-06-01
+"Hi, Need urgent help to cancel the leave request.",Leave Management,TCK1116,High,IT,2026-05-01
+FYI - Please help me grant the account.,Account Access,TCK1473,Medium,Marketing,2026-09-25
+"Hi team, I need to need my GitHub access. It is access denied. Thanks.",Access Request,TCK1693,Low,Sales,2026-07-20
+Need urgent help to sign in the system.,Login Issue,TCK1057,Low,Operations,2026-12-19
+"Forgot my VPN password, cannot connect",Password Reset,TCK1863,Medium,Sales,2026-10-14
+FYI - Attendance biometric not syncing with network,Network Issue,TCK1912,Medium,Marketing,2026-05-16
+Please resolve my Postman; it is not installed.,Software Installation,TCK1369,Medium,HR,2026-10-07
+FYI - Can you access my corporate VPN?,VPN Issue,TCK1268,High,Finance,2026-05-02
+Facing an issue while trying to change the domain password. Thanks.,Password Reset,TCK1046,Medium,Finance,2026-05-23
+Need urgent help to configure the Postman. Thanks.,Software Installation,TCK1349,Low,IT,2026-10-29
+My bonus is pending. Please help.,Payroll,TCK1195,Medium,Operations,2026-09-03
+Urgent: I need to grant my server. It is access denied. Thanks.,Access Request,TCK1999,Medium,Sales,2026-07-05
+FYI - I need to check my ID card. It is tomorrow. Please advise.,Unclassified,TCK1834,High,IT,2026-02-09
+Urgent: Need urgent help to provide the database.,Access Request,TCK1736,Medium,IT,2026-09-09
+my check-in is failed. please help.,Attendance,TCK1263,Low,IT,2026-01-12
+Unable to unlock my user profile because it is permission denied. Kindly help asap.,Account Access,TCK1443,Low,Sales,2026-05-21
+"Hi team, Can you scan my printer?",Printer Issue,TCK1675,Low,Operations,2026-04-17
+Can you connect my remote network?,VPN Issue,TCK1304,Medium,Finance,2026-08-09
+"Hi team, I need to install my Postman. It is installation error. Thanks.",Software Installation,TCK1341,Low,Sales,2026-08-22
+Please help me check the security warning.,Security/Phishing,TCK1966,Medium,Finance,2026-10-27
+Request to check the annual leave. Kindly help asap.,Leave Management,TCK1149,Medium,Finance,2026-12-07
+"Hi team, I need to update my leave request. It is missing.",Leave Management,TCK1124,Medium,HR,2026-11-07
+"Hi team, I need to check my spam email. It is received.",Security/Phishing,TCK1786,High,Operations,2026-06-21
+I need to update my employee portal password. It is locked. Kindly help asap.,Password Reset,TCK1050,High,Finance,2026-11-16
+"Hi, Facing an issue while trying to download the Python. Regards.",Software Installation,TCK1353,High,IT,2026-07-04
+Request to access the office network.,Network Issue,TCK1927,High,Sales,2026-02-16
+"Hi team, Facing an issue while trying to update the casual leave. Regards.",Leave Management,TCK1142,High,Marketing,2026-06-04
+"Hi team, I need to unlock my user profile. It is access denied.",Account Access,TCK1470,Low,Marketing,2026-11-13
+"Hello, Please help me sync the corporate email. Please advise.",Email Issue,TCK1399,Medium,HR,2026-11-22
+please resolve my internet; it is dns error. please advise.,Network Issue,TCK1625,High,Sales,2026-08-17
+Please resolve my Chrome; it is latest version. Please advise.,Software Installation,TCK1320,High,IT,2026-10-23
+Urgent: Unable to recover my employee portal password because it is expired.,Password Reset,TCK1019,Medium,HR,2026-10-04
+Urgent: Unable to help my parking because it is available. Kindly help asap.,Unclassified,TCK1809,Medium,IT,2026-05-29
+Request to check the spam email. Please advise.,Security/Phishing,TCK1790,Low,Finance,2026-10-22
+request to issue the cafeteria.,Unclassified,TCK1808,Medium,Sales,2026-12-21
+"Hi team, Can you open my corporate email?",Email Issue,TCK1407,Medium,HR,2026-01-28
+Please resolve my laptop; it is slow. Kindly help asap.,Hardware Issue,TCK1537,Low,IT,2026-05-26
+Can you use my network drive? Kindly help asap.,Network Issue,TCK1620,Low,Marketing,2026-07-24
+Urgent: Please help me update the office password.,Password Reset,TCK1038,Medium,HR,2026-12-18
+can you check my payroll? kindly help asap.,Payroll,TCK1175,High,HR,2026-06-29
+I need to regularize my attendance log. It is failed.,Attendance,TCK1245,Low,HR,2026-08-02
+"hi, my cafeteria is status. please help. regards.",Unclassified,TCK1828,Medium,Marketing,2026-12-04
+Request to scan the printer. Thanks.,Printer Issue,TCK1667,Low,HR,2026-01-17
+"hi team, request to block the unknown link. please advise.",Security/Phishing,TCK1754,High,Marketing,2026-07-12
+"Hi team, Employee portal password is not working",Password Reset,TCK1858,Medium,HR,2026-05-04
+"Hi team, Need urgent help to check the casual leave. Thanks.",Leave Management,TCK1154,Low,Sales,2026-08-03
+FYI - My remote network is failed. Please help.,VPN Issue,TCK1287,Low,Operations,2026-04-26
+"Hi, Facing an issue while trying to restore the internet. Please advise.",Network Issue,TCK1602,High,Finance,2026-06-15
+I need to check my laptop. It is dead. Thanks.,Hardware Issue,TCK1569,Medium,Sales,2026-11-19
+Urgent: Request to check the phishing email. Regards.,Security/Phishing,TCK1743,High,IT,2026-07-16
+"Hi team, My employee portal password is not received. Please help.",Password Reset,TCK1017,Low,IT,2026-07-05
+My casual leave is rejected. Please help.,Leave Management,TCK1127,Medium,Marketing,2026-09-14
+request to upgrade the zoom.,Software Installation,TCK1322,Medium,Sales,2026-11-13
+"Hi, My attendance log is failed. Please help.",Attendance,TCK1255,High,HR,2026-05-07
+"Hi team, Unable to install my scanner because it is printing failed. Regards.",Printer Issue,TCK1657,Low,Sales,2026-11-27
+"Hello, Need urgent help to correct the attendance log. Kindly help asap.",Attendance,TCK1964,Low,Finance,2026-08-21
+"Hi, Please resolve my salary; it is missing.",Payroll,TCK1190,High,Marketing,2026-10-22
+can you cancel my annual leave? regards.,Leave Management,TCK1115,Medium,Operations,2026-10-01
+My office network is offline. Please help.,Network Issue,TCK1616,High,HR,2026-10-16
+Urgent: Facing an issue while trying to restore the LAN. Kindly help asap.,Network Issue,TCK1606,Medium,IT,2026-02-19
+Unable to view my payroll because it is calculation error. Regards.,Payroll,TCK1180,Medium,Finance,2026-12-13
+Please help me open the office VPN. Please advise.,VPN Issue,TCK1301,Low,HR,2026-05-18
+Request to report the malware alert.,Security/Phishing,TCK1759,High,Operations,2026-04-17
+Facing an issue while trying to provide the shared folder. Regards.,Access Request,TCK1712,Medium,Operations,2026-11-06
+Please resolve my VPN access; it is waiting. Regards.,Access Request,TCK1723,Low,Finance,2026-12-25
+"Hi team, The HP printer is printing failed.",Printer Issue,TCK1685,High,HR,2026-04-08
+please help me unlock the account. kindly help asap.,Account Access,TCK1979,Medium,IT,2026-03-20
+I need to submit my transfer policy. It is required.,HR Query,TCK1517,Low,Marketing,2026-05-14
+Urgent: The payroll is incorrect.,Payroll,TCK1984,Low,Operations,2026-09-14
+can you reset my vpn password?,Password Reset,TCK1045,Medium,HR,2026-04-13
+Attendance biometric not syncing with network Kindly help asap.,Attendance,TCK1909,Medium,Finance,2026-08-28
+Urgent: Facing an issue while trying to update the earned leave. Please advise.,Leave Management,TCK1157,Low,Finance,2026-08-09
+"Urgent: VPN login keeps failing, invalid credentials Thanks.",Login Issue,TCK1851,High,Sales,2026-08-07
+Request to download the tax deduction. Kindly help asap.,Payroll,TCK1171,High,HR,2026-02-01
+Urgent: Unable to update my password because it is locked.,Password Reset,TCK1016,High,HR,2026-03-20
+"Hi, Can you view my HR policy? Kindly help asap.",HR Query,TCK1511,High,Operations,2026-05-01
+urgent: please help me change the office password. thanks.,Password Reset,TCK1048,Medium,Finance,2026-06-10
+I need to grant my database. It is pending.,Access Request,TCK1971,Low,IT,2026-10-08
+Facing an issue while trying to verify the phishing email. Please advise.,Security/Phishing,TCK1940,Medium,IT,2026-06-20
+Urgent: Facing an issue while trying to update the maternity policy.,HR Query,TCK1515,Low,Operations,2026-11-07
+"Hello, Unable to check my bonus because it is incorrect.",Payroll,TCK1952,Medium,IT,2026-05-06
+Need urgent help to check the medical claim. Please advise.,HR Query,TCK1480,High,Operations,2026-09-20
+I need to authenticate my office VPN. It is not connecting. Thanks.,VPN Issue,TCK1283,Low,HR,2026-09-16
+"Hi team, Please help me enable the VPN access. Kindly help asap.",Access Request,TCK1718,Low,Sales,2026-08-21
+"Urgent: Cannot access shared drive, permission and login both failing Thanks.",Account Access,TCK1877,High,IT,2026-12-06
+"Hi, My attendance is absent marked. Please help.",Attendance,TCK1225,High,Operations,2026-08-29
+Request to recover the office password. Kindly help asap.,Password Reset,TCK1026,Low,Sales,2026-10-09
+Unable to access my Exchange because it is full.,Email Issue,TCK1954,Medium,Sales,2026-09-22
+Facing an issue while trying to enable the network folder.,Account Access,TCK1437,High,HR,2026-05-31
+Unable to download my payslip because it is delayed. Regards.,Payroll,TCK1951,Medium,Marketing,2026-09-13
+"Hello, Can you install my Zoom? Please advise.",Software Installation,TCK1364,Low,IT,2026-01-07
+Request to update the check-in.,Attendance,TCK1229,Low,IT,2026-03-12
+urgent: request to forgot the vpn password. regards.,Password Reset,TCK1037,Low,Finance,2026-03-01
+"Hello, Unable to update my tax deduction because it is missing. Thanks.",Payroll,TCK1965,Low,Sales,2026-04-20
+Please resolve my Exchange; it is missing emails. Please advise.,Email Issue,TCK1374,Medium,Sales,2026-12-25
+"hi, please resolve my account; it is access denied. kindly help asap.",Account Access,TCK1469,Medium,Operations,2026-12-01
+Need urgent help to question the general inquiry.,Unclassified,TCK1967,High,HR,2026-09-06
+"Hello, VPN login keeps failing, invalid credentials Regards.",VPN Issue,TCK1850,Low,Marketing,2026-06-22
+Need urgent help to request the VPN access. Kindly help asap.,Access Request,TCK1704,High,IT,2026-02-16
+FYI - I need to issue my cafeteria. It is missing. Kindly help asap.,Unclassified,TCK1841,High,IT,2026-11-17
+"Hello, My payroll is pending. Please help.",Payroll,TCK1194,Medium,HR,2026-01-23
+"Cannot login to VPN portal, authentication failed Kindly help asap.",VPN Issue,TCK1854,Medium,Operations,2026-10-08
+"Forgot my VPN password, cannot connect",Password Reset,TCK1864,Low,HR,2026-03-23
+"hello, my maternity policy is update required. please help.",HR Query,TCK1503,High,Marketing,2026-02-02
+"Hello, Please help me restore the office network. Kindly help asap.",Network Issue,TCK1969,Low,Marketing,2026-03-20
+Please help me help the parking.,Unclassified,TCK1830,Medium,IT,2026-04-30
+Urgent: Can you replace my desktop?,Hardware Issue,TCK1579,Low,Marketing,2026-03-29
+Unable to investigate my malware alert because it is received.,Security/Phishing,TCK1968,High,HR,2026-10-14
+Facing an issue while trying to download the bonus.,Payroll,TCK1162,High,Sales,2026-05-29
+Attendance biometric not syncing with network Regards.,Attendance,TCK1908,High,IT,2026-10-25
+Need urgent help to update the annual leave. Thanks.,Leave Management,TCK1152,High,Operations,2026-05-17
+"Hello, Need urgent help to check the visitor pass. Please advise.",Unclassified,TCK1801,Medium,Marketing,2026-06-21
+FYI - Unable to print my printer because it is driver error. Please advise.,Printer Issue,TCK1993,Low,Operations,2026-01-11
+"Hi team, Unable to report my unknown link because it is received. Thanks.",Security/Phishing,TCK1755,Low,Operations,2026-11-30
+"Hi, My annual leave is not updated. Please help. Kindly help asap.",Leave Management,TCK1111,High,HR,2026-10-20
+Can you correct my attendance? Please advise.,Attendance,TCK1226,High,Finance,2026-07-26
+"Hello, Can you print my office printer? Kindly help asap.",Printer Issue,TCK1688,Low,IT,2026-09-24
+My ERP is failed. Please help.,Login Issue,TCK1103,Low,Operations,2026-10-05
+"Hi team, I need to sync my mailbox. It is sync failed. Kindly help asap.",Email Issue,TCK1421,Medium,Finance,2026-05-24
+"Hi, Need urgent help to open the Exchange.",Email Issue,TCK1419,Low,HR,2026-05-22
+I need to check my phishing email. It is possible attack.,Security/Phishing,TCK1750,Low,IT,2026-09-12
+Request to check the office network. Regards.,Network Issue,TCK1586,Medium,Sales,2026-04-23
+Facing an issue while trying to investigate the security warning. Kindly help asap.,Security/Phishing,TCK1780,Medium,Marketing,2026-12-15
+The printer is offline. Thanks.,Printer Issue,TCK1672,High,Marketing,2026-12-28
+Unable to apply my annual leave because it is not updated. Please advise.,Leave Management,TCK1119,High,Sales,2026-11-14
+"Hi team, Please resolve my company portal; it is loading forever. Kindly help asap.",Login Issue,TCK1053,Medium,Marketing,2026-11-07
+facing an issue while trying to apply the leave balance. kindly help asap.,Leave Management,TCK1151,Medium,Marketing,2026-04-26
+"hi team, the exchange is not working. kindly help asap.",Email Issue,TCK1403,Medium,IT,2026-02-07
+Unable to check my security warning because it is needs verification.,Security/Phishing,TCK1945,High,Operations,2026-07-04
+"hi, the bonus is pending. please advise.",Payroll,TCK1207,Low,Sales,2026-03-30
+"Hello, Facing an issue while trying to print the office printer. Please advise.",Printer Issue,TCK1658,High,Marketing,2026-03-11
+"hello, the general inquiry is required. regards.",Unclassified,TCK1843,Medium,IT,2026-06-22
+"Hi team, Facing an issue while trying to report the phishing email.",Security/Phishing,TCK1762,Low,Sales,2026-09-21
+Unable to update my VPN password because it is expired.,Password Reset,TCK1008,High,Operations,2026-10-13
+Urgent: Please resolve my visitor pass; it is today. Regards.,Unclassified,TCK1807,High,IT,2026-07-11
+"Hi, The domain password is expired.",Password Reset,TCK1036,Medium,Marketing,2026-12-01
+"Hello, Please help me restore the user profile.",Account Access,TCK1452,High,HR,2026-04-16
+Facing an issue while trying to scan the network printer. Thanks.,Printer Issue,TCK1651,Low,Finance,2026-07-31
+Can you check my working hours? Regards.,Attendance,TCK1253,High,IT,2026-11-24
+"Hi, Please help me login the GlobalProtect VPN.",VPN Issue,TCK1303,Medium,IT,2026-03-11
+Urgent: Need urgent help to report the malware alert.,Security/Phishing,TCK1746,Medium,IT,2026-01-19
+I need to check my laptop. It is damaged.,Hardware Issue,TCK1571,High,Marketing,2026-03-31
+i need to use my internet. it is packet loss.,Network Issue,TCK1623,Low,Operations,2026-12-01
+Urgent: Please help me provide the database. Kindly help asap.,Access Request,TCK1732,Low,Marketing,2026-02-17
+Urgent: Laptop won't connect to office WiFi Please advise.,Network Issue,TCK1891,Medium,Finance,2026-04-12
+need urgent help to update the working hours.,Attendance,TCK1262,High,Marketing,2026-03-10
+FYI - Please help me check the router.,Network Issue,TCK1610,Medium,Finance,2026-12-29
+Please help me connect the GlobalProtect VPN. Regards.,VPN Issue,TCK1297,Low,Operations,2026-07-19
+Please resolve my email account; it is missing emails. Thanks.,Email Issue,TCK1414,Medium,HR,2026-03-27
+urgent: need urgent help to check the sick leave. kindly help asap.,Leave Management,TCK1150,High,HR,2026-03-21
+Facing an issue while trying to verify the suspicious attachment.,Security/Phishing,TCK1788,Medium,HR,2026-09-05
+Urgent: I need to print my network printer. It is printing failed. Kindly help asap.,Printer Issue,TCK1640,High,HR,2026-01-10
+"Hello, Laptop won't connect to office WiFi Please advise.",Hardware Issue,TCK1889,High,Operations,2026-03-08
+Please help me repair the monitor.,Hardware Issue,TCK1550,Medium,HR,2026-11-07
+FYI - Network printer not detected on office WiFi,Network Issue,TCK1886,Low,Operations,2026-11-25
+I need to view my transfer policy. It is not available.,HR Query,TCK1488,Medium,HR,2026-11-21
+FYI - Need urgent help to view the leave request.,Leave Management,TCK1147,Medium,Finance,2026-03-20
+Please help me update the leave request.,Leave Management,TCK1146,Medium,Finance,2026-08-21
+Urgent: I need to enable my application. It is not approved. Thanks.,Access Request,TCK1720,High,HR,2026-10-21
+i need to update my leave balance. it is not approved.,Leave Management,TCK1931,High,Operations,2026-10-19
+"Hi team, Facing an issue while trying to request the server. Thanks.",Access Request,TCK1739,Medium,HR,2026-12-25
+"Hi team, Need urgent help to install the scanner. Please advise.",Printer Issue,TCK1659,High,HR,2026-08-21
+Please resolve my Zoom; it is upgrade required.,Software Installation,TCK1348,Low,Operations,2026-03-19
+Please resolve my domain account; it is expired.,Account Access,TCK1463,Low,Operations,2026-03-08
+Need urgent help to download the VS Code. Regards.,Software Installation,TCK1325,Low,Marketing,2026-03-27
+"Hi team, Need urgent help to download the bonus. Kindly help asap.",Payroll,TCK1186,High,Operations,2026-06-21
+Urgent: Please resolve my annual leave; it is incorrect. Thanks.,Leave Management,TCK1123,High,Sales,2026-05-21
+"Urgent: VPN login keeps failing, invalid credentials",Login Issue,TCK1853,Medium,HR,2026-08-01
+Please help me connect the network drive. Regards.,Network Issue,TCK1608,High,Operations,2026-10-30
+Facing an issue while trying to check the leave balance.,Leave Management,TCK1143,Medium,Operations,2026-08-16
+Can you update my employee portal password?,Password Reset,TCK1958,High,Marketing,2026-11-13
+My income statement is not credited. Please help.,Payroll,TCK1197,High,HR,2026-05-27
+"Hello, Can you connect my internet? Thanks.",Network Issue,TCK1609,Low,Operations,2026-09-09
+Need urgent help to connect the secure network. Thanks.,VPN Issue,TCK1279,High,Marketing,2026-08-02
+Need urgent help to open the GlobalProtect VPN.,VPN Issue,TCK1293,High,IT,2026-09-14
+Urgent: Please help me open the Exchange. Please advise.,Email Issue,TCK1400,Low,Finance,2026-05-12
+Need urgent help to cancel the earned leave.,Leave Management,TCK1122,Low,HR,2026-07-15
+"Hi team, The payslip is delayed. Regards.",Payroll,TCK1183,Medium,Marketing,2026-02-22
+"Hi team, My tax deduction is delayed. Please help. Thanks.",Payroll,TCK1202,Medium,Finance,2026-09-20
+Urgent: Please help me restore the domain account. Regards.,Account Access,TCK1438,Low,Operations,2026-06-21
+Unable to regularize my working hours because it is not updated. Regards.,Attendance,TCK1246,Medium,IT,2026-01-05
+The corporate email is not working. Thanks.,Email Issue,TCK1415,Medium,HR,2026-11-18
+my network folder is locked. please help. thanks.,Account Access,TCK1932,High,Sales,2026-04-02
+"Hi, The unknown link is urgent. Thanks.",Security/Phishing,TCK1765,Low,HR,2026-11-09
+Received suspicious email asking to reset my password,Password Reset,TCK1906,High,Operations,2026-11-03
+Urgent: Request to question the ID card. Regards.,Unclassified,TCK1835,High,Finance,2026-10-05
+Laptop won't connect to office WiFi Regards.,Hardware Issue,TCK1887,High,HR,2026-01-02
+Unable to apply my leave request because it is missing.,Leave Management,TCK1129,Medium,IT,2026-07-22
+Urgent: I need to print my HP printer. It is ink low. Regards.,Printer Issue,TCK1637,High,Finance,2026-02-25
+"Hello, Need urgent help to open the email account.",Email Issue,TCK1402,High,Operations,2026-12-18
+"Hi, Can you report my security warning? Please advise.",Security/Phishing,TCK1784,High,Operations,2026-01-12
+Facing an issue while trying to check the phishing email. Regards.,Security/Phishing,TCK1770,Low,Finance,2026-08-11
+FYI - Facing an issue while trying to grant the server. Kindly help asap.,Access Request,TCK1735,Low,Finance,2026-02-01
+Attendance biometric not syncing with network Kindly help asap.,Network Issue,TCK1913,Low,Finance,2026-09-09
+Can you verify my check-in? Kindly help asap.,Attendance,TCK1219,High,IT,2026-03-22
+Urgent: My scanner is ink low. Please help. Please advise.,Printer Issue,TCK1641,High,Finance,2026-02-01
+"hi team, salary portal login not working, please check payroll please advise.",Payroll,TCK1915,Low,HR,2026-01-19
+My security warning is urgent. Please help. Please advise.,Security/Phishing,TCK1752,Low,IT,2026-10-31
+Urgent: Facing an issue while trying to check the cafeteria.,Unclassified,TCK1806,Low,Marketing,2026-07-05
+"FYI - Salary portal login not working, please check payroll Thanks.",Login Issue,TCK1919,Medium,HR,2026-03-28
+Please resolve my router; it is offline. Thanks.,Network Issue,TCK1624,Low,Finance,2026-10-04
+Urgent: Account locked after wrong password attempts,Password Reset,TCK1874,Medium,Marketing,2026-07-11
+Can you report my spam email? Regards.,Security/Phishing,TCK1760,Medium,Sales,2026-04-01
+the corporate email is missing emails.,Email Issue,TCK1386,Medium,Operations,2026-07-03
+Urgent: Please help me connect the office network.,Network Issue,TCK1972,Medium,Sales,2026-09-01
+Need urgent help to submit the HR policy. Please advise.,HR Query,TCK1509,Medium,HR,2026-02-28
+I need to authenticate my remote network. It is timeout. Please advise.,VPN Issue,TCK1267,Low,HR,2026-09-15
+"Hello, Facing an issue while trying to need the office party. Kindly help asap.",Unclassified,TCK1819,Low,IT,2026-11-05
+"Hello, Please help me restore the domain account.",Account Access,TCK1441,High,Finance,2026-07-31
+My HR policy is update required. Please help. Thanks.,HR Query,TCK1496,Medium,Sales,2026-02-28
+FYI - Need urgent help to apply the earned leave. Regards.,Leave Management,TCK1112,Medium,Sales,2026-12-06
+Request to enable the GitHub access. Kindly help asap.,Access Request,TCK1691,Medium,HR,2026-12-27
+FYI - Please resolve my working hours; it is missing. Kindly help asap.,Attendance,TCK1232,Medium,Marketing,2026-06-07
+Account locked after wrong password attempts,Account Access,TCK1869,Low,HR,2026-02-27
+request to connect the wifi.,Network Issue,TCK1607,Low,Sales,2026-04-09
+Urgent: Can you install my network printer? Kindly help asap.,Printer Issue,TCK1671,High,HR,2026-12-23
+"hello, my calendar is not working. please help.",Email Issue,TCK1373,Medium,IT,2026-10-31
+Urgent: My tax deduction is delayed. Please help.,Payroll,TCK1981,Low,IT,2026-04-14
+FYI - My cafeteria is today. Please help. Kindly help asap.,Unclassified,TCK1842,Low,Operations,2026-05-06
+i need to correct my working hours. it is absent marked. regards.,Attendance,TCK1233,Medium,HR,2026-09-26
+Can you verify my security warning?,Security/Phishing,TCK1785,Medium,Operations,2026-11-27
+FYI - Please resolve my HP printer; it is offline. Kindly help asap.,Printer Issue,TCK1676,High,HR,2026-01-06
+"Hello, I need to connect my VPN. It is disconnecting. Regards.",VPN Issue,TCK1317,High,HR,2026-09-22
+Unable to scan my printer because it is paper jam. Thanks.,Printer Issue,TCK1648,High,Marketing,2026-05-17
+"Hello, Facing an issue while trying to sync the calendar. Regards.",Email Issue,TCK1410,Low,Finance,2026-07-15
+"Hello, Outlook login failing, password might be wrong Please advise.",Password Reset,TCK1898,Low,Finance,2026-05-28
+I need to need my server. It is waiting. Regards.,Access Request,TCK1709,Medium,Sales,2026-07-15
+"Hello, Need urgent help to configure the Postman. Kindly help asap.",Software Installation,TCK1358,High,HR,2026-01-30
+The working hours is missing.,Attendance,TCK1258,Medium,HR,2026-09-20
+"Hello, The security warning is possible attack. Regards.",Security/Phishing,TCK1744,Medium,IT,2026-11-20
+"Hi team, My office network is DNS error. Please help.",Network Issue,TCK1627,Low,Sales,2026-09-14
+FYI - Facing an issue while trying to connect the LAN. Please advise.,Network Issue,TCK1632,Low,IT,2026-01-28
+"hi team, request to authenticate the office vpn.",VPN Issue,TCK1282,Low,Operations,2026-01-25
+"Hi, Unable to send my corporate email because it is login failed. Kindly help asap.",Email Issue,TCK1376,High,Finance,2026-04-17
+"hi, the mailbox is sync failed. please advise.",Email Issue,TCK1384,High,Marketing,2026-05-06
+"Hello, Facing an issue while trying to update the working hours.",Attendance,TCK1224,Low,HR,2026-10-26
+"Hello, My visitor pass is missing. Please help. Kindly help asap.",Unclassified,TCK1953,Medium,Finance,2026-11-19
+"Hello, Request to issue the general inquiry.",Unclassified,TCK1814,Low,IT,2026-03-09
+"Hi, My network folder is expired. Please help. Regards.",Account Access,TCK1472,High,Sales,2026-02-28
+My VS Code is installation error. Please help. Regards.,Software Installation,TCK1347,Low,IT,2026-09-29
+Please help me check the maternity policy.,HR Query,TCK1505,Medium,HR,2026-10-01
+Facing an issue while trying to configure the Canon printer. Please advise.,Printer Issue,TCK1639,Medium,Marketing,2026-12-31
+need urgent help to enable the system account. kindly help asap.,Account Access,TCK1987,High,Marketing,2026-10-16
+my shared folder is access denied. please help. thanks.,Access Request,TCK1928,Medium,Sales,2026-12-13
+urgent: received suspicious email asking to reset my password thanks.,Password Reset,TCK1905,Low,IT,2026-06-20
+request to restore the network drive. thanks.,Network Issue,TCK1619,Medium,HR,2026-03-12
+"Cannot login to VPN portal, authentication failed Thanks.",VPN Issue,TCK1855,High,HR,2026-10-23
+Request to question the general inquiry. Please advise.,Unclassified,TCK1803,Medium,Finance,2026-10-11
+The scanner is ink low. Please advise.,Printer Issue,TCK1645,Low,Operations,2026-10-17
+"Hi, Need urgent help to help the visitor pass. Thanks.",Unclassified,TCK1846,Low,Finance,2026-09-12
+FYI - Please help me check the webcam. Thanks.,Hardware Issue,TCK1556,Low,Sales,2026-06-10
+Need urgent help to update the transfer policy.,HR Query,TCK1957,High,Finance,2026-06-26
+can you repair my desktop? thanks.,Hardware Issue,TCK1577,Medium,Marketing,2026-01-28
+Please help me question the cafeteria. Thanks.,Unclassified,TCK1795,Medium,Marketing,2026-04-23
+Urgent: The system is timed out. Regards.,Login Issue,TCK1085,High,Marketing,2026-05-25
+request to update the check-in. please advise.,Attendance,TCK1242,High,HR,2026-11-23
+FYI - I need to request my server. It is required.,Access Request,TCK1698,Low,Finance,2026-06-28
+Urgent: Please resolve my salary; it is incorrect. Please advise.,Payroll,TCK1159,Medium,Finance,2026-06-17
+"Hello, Need urgent help to check the emergency contact.",HR Query,TCK1524,Low,Marketing,2026-07-27
+Please resolve my password; it is not working. Please advise.,Password Reset,TCK1035,Low,Finance,2026-02-05
+Urgent: Unable to check my webcam because it is overheating. Kindly help asap.,Hardware Issue,TCK1540,Medium,Marketing,2026-07-07
+"Hello, My salary is pending. Please help.",Payroll,TCK1170,Medium,Sales,2026-10-25
+Need urgent help to configure the office printer.,Printer Issue,TCK1654,High,IT,2026-09-24
+Laptop won't connect to office WiFi,Network Issue,TCK1890,Medium,Sales,2026-03-10
+Employee portal password is not working,Password Reset,TCK1857,Medium,Marketing,2026-11-17
+Urgent: Request to help the parking. Kindly help asap.,Unclassified,TCK1847,Low,Sales,2026-11-22
+Facing an issue while trying to upgrade the Chrome. Please advise.,Software Installation,TCK1944,High,Finance,2026-11-05
+"Hello, I need to enable my application. It is pending. Regards.",Access Request,TCK1733,Low,Marketing,2026-03-08
+the system is loading forever.,Login Issue,TCK1095,Low,Operations,2026-03-18
+i need to repair my webcam. it is broken.,Hardware Issue,TCK1563,Medium,Marketing,2026-05-13
+Please help me correct the attendance log.,Attendance,TCK1240,Low,Finance,2026-01-22
+urgent: request to check the suspicious attachment.,Security/Phishing,TCK1742,High,IT,2026-07-07
+"Hello, Please resolve my mouse; it is not working. Please advise.",Hardware Issue,TCK1574,Medium,Finance,2026-12-01
+Urgent: My application is required. Please help. Please advise.,Access Request,TCK1690,Low,IT,2026-11-15
+urgent: unable to enable my shared drive because it is access denied. regards.,Account Access,TCK1460,Medium,HR,2026-02-28
+"Hi, Can you check my mouse?",Hardware Issue,TCK1553,Medium,Sales,2026-12-15
+Laptop won't connect to office WiFi Please advise.,Hardware Issue,TCK1888,Medium,Marketing,2026-02-12
+i need to view my tax deduction. it is calculation error.,Payroll,TCK1206,Medium,Operations,2026-08-17
+"hi team, request to open the corporate email. thanks.",Email Issue,TCK1392,High,HR,2026-01-11
+Can you verify my suspicious attachment?,Security/Phishing,TCK1794,Medium,Finance,2026-12-19
+Urgent: Please resolve my Exchange; it is sync failed. Please advise.,Email Issue,TCK1397,Low,Operations,2026-10-21
+Facing an issue while trying to block the unknown link.,Security/Phishing,TCK1766,High,Finance,2026-05-19
+"Hello, VPN login keeps failing, invalid credentials",VPN Issue,TCK1848,Low,Finance,2026-05-16
+"Hi team, Please resolve my attendance; it is missing. Regards.",Attendance,TCK1217,Medium,Operations,2026-04-18
+urgent: need urgent help to forgot the domain password.,Password Reset,TCK1004,Medium,Marketing,2026-03-05
+Unable to check my spam email because it is infected.,Security/Phishing,TCK1768,High,HR,2026-10-23
+Urgent: Can you install my printer? Please advise.,Printer Issue,TCK1642,Medium,Operations,2026-03-12
+Unable to sync my email account because it is missing emails. Thanks.,Email Issue,TCK1929,Medium,IT,2026-09-02
+Request to connect the WiFi.,Network Issue,TCK1612,Low,Marketing,2026-12-03
+"hello, please help me provide the application. thanks.",Access Request,TCK1738,High,Operations,2026-05-09
+Urgent: Need urgent help to diagnose the webcam. Regards.,Hardware Issue,TCK1546,Low,HR,2026-11-24
+"Hi, Facing an issue while trying to provide the server. Regards.",Access Request,TCK1725,Low,Marketing,2026-06-26
+fyi - please resolve my scanner; it is ink low. regards.,Printer Issue,TCK1683,Medium,IT,2026-09-12
+"Hi team, Facing an issue while trying to access the employee portal.",Login Issue,TCK1098,High,Finance,2026-01-14
+Urgent: Facing an issue while trying to need the office party.,Unclassified,TCK1804,Medium,HR,2026-01-14
+The application is waiting.,Access Request,TCK1727,High,Sales,2026-01-07
+Please resolve my mouse; it is dead.,Hardware Issue,TCK1573,Medium,Sales,2026-11-20
+Please help me open the corporate email. Regards.,Email Issue,TCK1406,High,Marketing,2026-05-16
+Urgent: Request to view the emergency contact.,HR Query,TCK1502,High,Sales,2026-08-10
+Please help me change the domain password.,Password Reset,TCK1047,High,Finance,2026-01-15
+Please help me reset the Windows password.,Password Reset,TCK1032,High,IT,2026-08-03
+Request to report the malware alert. Please advise.,Security/Phishing,TCK1779,Low,Marketing,2026-02-28
+"Hi, Facing an issue while trying to issue the general inquiry.",Unclassified,TCK1839,Low,Marketing,2026-01-29
+Need urgent help to download the tax deduction.,Payroll,TCK1200,Low,IT,2026-06-17
+Request to view the annual leave.,Leave Management,TCK1134,Medium,Marketing,2026-07-28
+"Hi team, Please help me forgot the VPN password. Thanks.",Password Reset,TCK1027,Low,HR,2026-07-28
+"Hello, Cannot access shared drive, permission and login both failing",Login Issue,TCK1880,Medium,Sales,2026-01-05
+My biometric record is not updated. Please help.,Attendance,TCK1230,Low,Finance,2026-11-10
+My emergency contact is update required. Please help.,HR Query,TCK1489,Low,Finance,2026-08-18
+"Hi, I need to verify my malware alert. It is possible attack.",Security/Phishing,TCK1772,Low,Sales,2026-09-11
+Please resolve my corporate email; it is sync failed. Thanks.,Email Issue,TCK1378,Medium,Sales,2026-09-20
+"Hi team, Can you connect my corporate VPN? Thanks.",VPN Issue,TCK1288,Medium,Marketing,2026-09-01
+"Hello, Please resolve my email account; it is not working.",Email Issue,TCK1418,Medium,Marketing,2026-06-26
+"Hi, Please resolve my HP printer; it is printing failed.",Printer Issue,TCK1674,High,HR,2026-12-29
+FYI - Please resolve my calendar; it is missing emails.,Email Issue,TCK1391,High,HR,2026-09-10
+"Hi, Need urgent help to use the office network. Regards.",Network Issue,TCK1592,Medium,IT,2026-03-16
+Facing an issue while trying to update the employee handbook. Kindly help asap.,HR Query,TCK1498,Low,HR,2026-10-03
+Request to apply the annual leave. Kindly help asap.,Leave Management,TCK1138,High,IT,2026-05-22
+Urgent: Can you access my employee portal? Please advise.,Login Issue,TCK1062,Medium,Marketing,2026-02-11
+"Hi, Can you activate my network folder? Kindly help asap.",Account Access,TCK1471,Low,HR,2026-08-21
+"Hi, My HP printer is not detected. Please help. Regards.",Printer Issue,TCK1647,High,Operations,2026-05-21
+Urgent: Can you apply my sick leave? Regards.,Leave Management,TCK1128,Low,Sales,2026-02-08
+Please resolve my Zoom; it is latest version. Please advise.,Software Installation,TCK1976,High,IT,2026-03-03
+"Hi, Please resolve my emergency contact; it is missing. Please advise.",HR Query,TCK1520,High,Operations,2026-03-16
+Urgent: Unable to question my ID card because it is missing. Regards.,Unclassified,TCK1838,Low,Marketing,2026-12-12
+"Hi team, Can you restore my internet?",Network Issue,TCK1962,Low,Sales,2026-06-02
+Request to access the company portal.,Login Issue,TCK1064,High,Operations,2026-01-11
+"Hi team, Request to issue the office party. Please advise.",Unclassified,TCK1812,Medium,Sales,2026-07-30
+"Hello, Request to forgot the VPN password. Regards.",Password Reset,TCK1014,Medium,Operations,2026-06-24
+"hi team, i need to apply my casual leave. it is not approved. regards.",Leave Management,TCK1156,Medium,Operations,2026-08-06
+My VPN password is failed. Please help. Regards.,Password Reset,TCK1040,High,Sales,2026-10-15
+Urgent: Unable to check my emergency contact because it is required.,HR Query,TCK1492,High,Finance,2026-02-07
+"Hi team, I need to open my mailbox. It is full.",Email Issue,TCK1379,High,Operations,2026-10-09
+"Hi, Unable to view my salary because it is delayed. Regards.",Payroll,TCK1187,High,Sales,2026-08-18
+"Hi, Please help me report the spam email.",Security/Phishing,TCK1763,Medium,HR,2026-12-13
+Request to check the biometric record. Please advise.,Attendance,TCK1216,High,Marketing,2026-06-22
+Unable to verify my suspicious attachment because it is infected. Please advise.,Security/Phishing,TCK1791,Low,Operations,2026-06-12
+Can you update my office password? Regards.,Password Reset,TCK1052,High,Operations,2026-03-31
+"Hi team, Cannot access shared drive, permission and login both failing Regards.",Login Issue,TCK1878,High,HR,2026-05-10
+Unable to configure my Postman because it is license issue.,Software Installation,TCK1337,High,IT,2026-07-26
+facing an issue while trying to investigate the spam email. thanks.,Security/Phishing,TCK1748,Low,Sales,2026-12-01
+FYI - Request to provide the VPN access.,Access Request,TCK1719,Medium,Finance,2026-03-27
+"Hi team, The shared folder is missing. Kindly help asap.",Access Request,TCK1724,Low,Marketing,2026-03-20
+Urgent: Need urgent help to login the VPN.,VPN Issue,TCK1295,Medium,HR,2026-07-02
+FYI - Unable to provide my server because it is required. Please advise.,Access Request,TCK1701,High,Sales,2026-08-11
+Urgent: Facing an issue while trying to update the check-in.,Attendance,TCK1251,Medium,Finance,2026-06-04
+I need to grant my GitHub access. It is required.,Access Request,TCK1726,Medium,Sales,2026-09-30
+Need urgent help to restore the user profile. Regards.,Account Access,TCK1461,Medium,Operations,2026-03-27
+Please resolve my shared drive; it is expired. Kindly help asap.,Account Access,TCK1455,Medium,HR,2026-01-21
+Please resolve my user profile; it is disabled. Please advise.,Account Access,TCK1996,High,Operations,2026-12-16
+FYI - I need to question my office party. It is required. Please advise.,Unclassified,TCK1815,High,Marketing,2026-06-25
+Employee portal password is not working,Login Issue,TCK1862,Low,HR,2026-01-15
+Can you access my corporate VPN?,VPN Issue,TCK1269,Low,Marketing,2026-10-30
+Can you check my tax deduction? Please advise.,Payroll,TCK1201,Medium,Sales,2026-01-22
+"Hello, Request to verify the payroll.",Payroll,TCK1161,Low,Sales,2026-01-10
+the mouse is damaged.,Hardware Issue,TCK1555,Medium,HR,2026-05-28
+Urgent: My VPN access is waiting. Please help. Kindly help asap.,Access Request,TCK1729,Low,Finance,2026-12-02
+"Hi, Please help me send the Outlook. Regards.",Email Issue,TCK1401,Low,Sales,2026-09-10
+Please resolve my VPN access; it is waiting. Please advise.,Access Request,TCK1702,Low,Operations,2026-12-31
+"Hi team, The account is access denied. Regards.",Account Access,TCK1476,High,IT,2026-08-19
+My parking is tomorrow. Please help.,Unclassified,TCK1821,Low,Marketing,2026-01-08
+"Hi team, Please resolve my malware alert; it is clicked accidentally.",Security/Phishing,TCK1771,Low,Sales,2026-09-16
+I need to sign in my ERP. It is loading forever. Kindly help asap.,Login Issue,TCK1105,High,Sales,2026-03-04
+FYI - Facing an issue while trying to check the desktop. Kindly help asap.,Hardware Issue,TCK1565,Medium,Sales,2026-04-03
+The Outlook is full. Kindly help asap.,Email Issue,TCK1389,High,IT,2026-04-23
+"Hi team, Please help me update the Windows password. Thanks.",Password Reset,TCK1001,High,Marketing,2026-01-14
+Please help me download the HR policy. Thanks.,HR Query,TCK1937,High,HR,2026-01-14
+Please resolve my corporate email; it is login failed.,Email Issue,TCK1982,Low,Finance,2026-02-01
+The desktop is not working.,Hardware Issue,TCK1561,High,IT,2026-09-15
+urgent: can you authenticate my erp?,Login Issue,TCK1080,Low,IT,2026-05-04
+FYI - Please help me verify the payslip.,Payroll,TCK1205,Medium,HR,2026-02-28
+Urgent: Need urgent help to reset the VPN password.,Password Reset,TCK1034,Low,IT,2026-08-23
+I need to verify my unknown link. It is clicked accidentally. Please advise.,Security/Phishing,TCK1775,Medium,Operations,2026-08-26
+Request to submit the employee handbook. Regards.,HR Query,TCK1508,High,Finance,2026-04-19
+"Hi, The user profile is expired. Please advise.",Account Access,TCK1427,Medium,Marketing,2026-10-10
+"hello, unable to restore my account because it is expired. kindly help asap.",Account Access,TCK1454,Low,Sales,2026-04-12
+Need urgent help to update the Anaconda. Regards.,Software Installation,TCK1366,Low,Marketing,2026-07-10
+Urgent: The company portal is timed out.,Login Issue,TCK1091,Medium,Finance,2026-10-19
+Facing an issue while trying to upgrade the Python. Please advise.,Software Installation,TCK1339,Low,Sales,2026-05-18
+"Hi team, Outlook login failing, password might be wrong Regards.",Password Reset,TCK1897,Medium,Operations,2026-09-11
+Urgent: Unable to diagnose my keyboard because it is broken.,Hardware Issue,TCK1564,Medium,Finance,2026-04-05
+"Hi team, The Postman is installation error. Thanks.",Software Installation,TCK1345,Low,Sales,2026-12-22
+fyi - i need to report my unknown link. it is needs verification.,Security/Phishing,TCK1776,Medium,Finance,2026-12-24
+Urgent: Can you regularize my check-out? Regards.,Attendance,TCK1241,Low,Marketing,2026-05-19
+Unable to recover my employee portal password because it is not working.,Password Reset,TCK1013,Medium,Marketing,2026-05-09
+Can you authenticate my VPN? Kindly help asap.,VPN Issue,TCK1315,Medium,HR,2026-09-24
+"Hi, Unable to restore my WiFi because it is disconnected. Please advise.",Network Issue,TCK1600,High,Operations,2026-06-27
+Facing an issue while trying to access the Exchange. Kindly help asap.,Email Issue,TCK1387,Low,IT,2026-06-13
+Unable to authenticate my office VPN because it is disconnecting. Kindly help asap.,VPN Issue,TCK1273,Medium,Finance,2026-02-17
+Please help me view the bonus.,Payroll,TCK1166,High,IT,2026-04-01
+Need urgent help to help the ID card.,Unclassified,TCK1840,Medium,Finance,2026-02-01
+"hi, please help me update the leave balance. regards.",Leave Management,TCK1992,Medium,Marketing,2026-07-03
+unable to connect my printer because it is printing failed. regards.,Printer Issue,TCK1646,Medium,HR,2026-01-16
+"Hello, Facing an issue while trying to question the cafeteria. Thanks.",Unclassified,TCK1818,High,Marketing,2026-01-31
+i need to submit my employee handbook. it is required. please advise.,HR Query,TCK1484,Low,HR,2026-05-17
+fyi - need urgent help to download the employee handbook. please advise.,HR Query,TCK1980,Low,Finance,2026-07-19
+fyi - please resolve my transfer policy; it is required.,HR Query,TCK1504,High,Finance,2026-11-07
+Urgent: Need urgent help to question the office party.,Unclassified,TCK1831,High,Sales,2026-07-02
+FYI - The attendance is not updated. Regards.,Attendance,TCK1243,High,HR,2026-01-03
+please resolve my monitor; it is dead.,Hardware Issue,TCK1566,Medium,HR,2026-10-12
+"Hello, Cannot access shared drive, permission and login both failing Kindly help asap.",Account Access,TCK1875,Medium,Operations,2026-05-07
+"Hi, My webcam is broken. Please help. Thanks.",Hardware Issue,TCK1562,Medium,Finance,2026-12-19
+Urgent: My office printer is printing failed. Please help.,Printer Issue,TCK1686,Low,Marketing,2026-12-13
+request to update the salary. kindly help asap.,Payroll,TCK1189,Low,Sales,2026-11-24
+Urgent: Facing an issue while trying to investigate the security warning.,Security/Phishing,TCK1782,High,Operations,2026-02-03
+"Hello, Please resolve my shared folder; it is missing.",Access Request,TCK1699,Low,Finance,2026-10-12
+Please help me enable the network folder. Thanks.,Account Access,TCK1475,Medium,HR,2026-08-23
+FYI - Request to print the network printer.,Printer Issue,TCK1681,Medium,IT,2026-03-18
+"Hi, Unable to submit my employee handbook because it is help needed. Regards.",HR Query,TCK1510,Medium,Operations,2026-02-04
+I need to login my company portal. It is not working.,Login Issue,TCK1058,High,Sales,2026-01-26
+"Hi, My account is disabled. Please help. Please advise.",Account Access,TCK1474,High,Operations,2026-07-29
+Urgent: My keyboard is slow. Please help.,Hardware Issue,TCK1560,High,Finance,2026-07-23
+"Hi, Cannot login to VPN portal, authentication failed Please advise.",VPN Issue,TCK1856,High,Sales,2026-05-18
+"hi team, my suspicious attachment is needs verification. please help.",Security/Phishing,TCK1747,High,Operations,2026-09-25
+FYI - Please resolve my attendance; it is absent marked. Regards.,Attendance,TCK1252,High,IT,2026-08-27
+The domain password is not working. Please advise.,Password Reset,TCK1021,Low,IT,2026-12-29
+Please help me login the office VPN.,VPN Issue,TCK1313,High,HR,2026-08-17
+"Hello, My user profile is inactive. Please help. Thanks.",Account Access,TCK1459,Low,IT,2026-03-12
+please help me download the tax deduction. please advise.,Payroll,TCK1160,High,Operations,2026-04-28
+The corporate VPN is authentication failed. Regards.,VPN Issue,TCK1276,Low,Sales,2026-05-03
+i need to check my lan. it is slow. thanks.,Network Issue,TCK1955,Medium,Sales,2026-03-26
+"Hi team, The bonus is not credited.",Payroll,TCK1191,High,Sales,2026-04-06
+"hi, can you sync my exchange? thanks.",Email Issue,TCK1385,Medium,HR,2026-08-03
+"Hi, I need to check my office party. It is required. Thanks.",Unclassified,TCK1805,Medium,Sales,2026-04-02
+"hi, request to sync the email account. kindly help asap.",Email Issue,TCK1413,High,IT,2026-09-15
+Urgent: Can you download my HR policy? Thanks.,HR Query,TCK1491,High,HR,2026-01-21
+My Python is license issue. Please help. Thanks.,Software Installation,TCK1343,Medium,Operations,2026-12-25
+Request to block the phishing email.,Security/Phishing,TCK1769,Low,Marketing,2026-08-31
+"Hello, The GlobalProtect VPN is not connecting.",VPN Issue,TCK1308,Medium,Operations,2026-09-13
+Facing an issue while trying to connect the printer. Regards.,Printer Issue,TCK1661,High,Marketing,2026-03-23
+"Hi, I need to cancel my annual leave. It is pending. Kindly help asap.",Leave Management,TCK1130,High,Finance,2026-10-27
+Unable to scan my office printer because it is offline. Kindly help asap.,Printer Issue,TCK1663,Medium,Finance,2026-11-17
+"Hi, Account locked after wrong password attempts Thanks.",Account Access,TCK1871,Low,Finance,2026-06-18
+"Hi team, Please help me sign in the system.",Login Issue,TCK1099,Medium,Marketing,2026-01-21
+"Hello, I need to receive my calendar. It is sync failed. Thanks.",Email Issue,TCK1372,High,Sales,2026-12-25
+Urgent: Can you login my employee portal? Regards.,Login Issue,TCK1087,High,Sales,2026-02-22
+urgent: can you grant my user profile?,Account Access,TCK1458,Low,IT,2026-05-29
+Urgent: Request to install the Zoom.,Software Installation,TCK1330,Medium,Marketing,2026-01-22
+Can you check my check-in? Kindly help asap.,Attendance,TCK1214,High,Finance,2026-02-10
+Please resolve my user profile; it is inactive.,Account Access,TCK1466,High,Operations,2026-07-17
+i need to view my sick leave. it is missing. please advise.,Leave Management,TCK1121,Medium,Marketing,2026-06-03
+Please resolve my router; it is packet loss. Thanks.,Network Issue,TCK1614,Low,Marketing,2026-07-25
+FYI - The Windows password is locked.,Password Reset,TCK1020,Medium,IT,2026-05-07
+Please help me grant the VPN access.,Access Request,TCK1700,High,HR,2026-10-08
+please help me login the employee portal.,Login Issue,TCK1071,Low,HR,2026-03-06
+I need to update my casual leave. It is missing. Kindly help asap.,Leave Management,TCK1106,High,Sales,2026-02-17
+"Hi team, Unable to authenticate my secure network because it is authentication failed. Kindly help asap.",VPN Issue,TCK1270,High,Sales,2026-09-26
+FYI - Employee portal password is not working,Login Issue,TCK1860,Low,Operations,2026-04-15
+"Hi team, Need urgent help to enable the system account. Regards.",Account Access,TCK1435,Medium,Finance,2026-08-03
+Need urgent help to access the ERP.,Login Issue,TCK1102,Low,Sales,2026-02-15

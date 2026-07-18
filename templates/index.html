@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Helpdesk Ticket Classifier</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+          rel="stylesheet">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<!-- ===================== NAVBAR ===================== -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+
+    <div class="container">
+
+        <a class="navbar-brand fw-bold" href="#">
+
+            <i class="bi bi-robot"></i>
+
+            AI Helpdesk Ticket Classifier
+
+        </a>
+
+    </div>
+
+</nav>
+
+<!-- ===================== HERO ===================== -->
+
+<section class="py-5">
+
+    <div class="container">
+
+        <div class="text-center mb-5">
+
+            <h1 class="display-4 fw-bold">
+
+                Intelligent Helpdesk Ticket Classification
+
+            </h1>
+
+            <p class="lead text-muted">
+
+                Enter a support ticket and let Machine Learning classify it instantly.
+
+            </p>
+
+        </div>
+
+        <div class="row justify-content-center">
+
+            <div class="col-lg-9">
+
+                <div class="card shadow-lg border-0">
+
+                    <div class="card-body p-4">
+
+                        <label class="form-label fw-semibold">
+
+                            Helpdesk Ticket
+
+                        </label>
+
+                        <textarea
+                            id="ticket"
+                            class="form-control"
+                            rows="5"
+                            placeholder="Example: My laptop cannot connect to VPN after today's Windows update."></textarea>
+
+                        <div class="text-center mt-4">
+
+                            <button
+                                id="predictBtn"
+                                class="btn btn-primary btn-lg px-4">
+
+                                <i class="bi bi-cpu"></i>
+
+                                Classify Ticket
+
+                            </button>
+
+                            <button
+                                id="clearBtn"
+                                class="btn btn-secondary btn-lg px-4 ms-2">
+
+                                Clear
+
+                            </button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===================== SAMPLE TICKETS ===================== -->
+
+<div class="container mb-5">
+
+    <div class="card shadow border-0">
+
+        <div class="card-body">
+
+            <h3 class="mb-3">
+
+                🤖 Try Sample Tickets
+
+            </h3>
+
+            <div class="d-flex flex-wrap gap-2">
+
+                <button class="btn btn-outline-primary sampleTicket">Forgot my password.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">My laptop is not connecting to VPN.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Outlook is not sending emails.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">My laptop is running very slow.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Printer is offline.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">No internet connection.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Install Microsoft Office.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Unable to login to SAP.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Received a phishing email.</button>
+
+                <button class="btn btn-outline-primary sampleTicket">Need access to Power BI.</button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- ===================== RESULT ===================== -->
+
+<div class="container mb-5">
+
+    <div class="card shadow-lg border-0">
+
+        <div class="card-body p-4">
+
+            <h2 class="mb-4">
+
+                🤖 AI Helpdesk Assistant
+
+            </h2>
+
+            <hr>
+
+            <div class="row">
+
+                <div class="col-md-6">
+
+                    <h4>Category</h4>
+
+                    <h2 id="prediction" class="text-success fw-bold">
+
+                        --
+
+                    </h2>
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <h4>Confidence</h4>
+
+                    <h2 id="confidence" class="text-danger fw-bold">
+
+                        --
+
+                    </h2>
+
+                </div>
+
+            </div>
+
+            <hr>
+
+            <div class="row">
+
+                <div class="col-md-4">
+
+                    <h4>Assigned Team</h4>
+
+                    <h3 id="assignedTeam">
+
+                        --
+
+                    </h3>
+
+                </div>
+
+                <div class="col-md-4">
+
+                    <h4>Priority</h4>
+
+                    <h3 id="priority">
+
+                        --
+
+                    </h3>
+
+                </div>
+
+                <div class="col-md-4">
+
+                    <h4>Estimated Resolution</h4>
+
+                    <h3 id="eta">
+
+                        --
+
+                    </h3>
+
+                </div>
+
+            </div>
+
+            <hr>
+
+            <h4>Suggested Resolution</h4>
+
+            <ul
+                id="resolution"
+                class="list-group mb-4">
+
+                <li class="list-group-item">
+
+                    --
+
+                </li>
+
+            </ul>
+
+            <h4>Top 3 Predictions</h4>
+
+            <ul
+                id="topPredictions"
+                class="list-group">
+
+                <li class="list-group-item">
+
+                    --
+
+                </li>
+
+            </ul>
+
+            <div class="text-center mt-4">
+
+                <button
+                    id="copyBtn"
+                    class="btn btn-success">
+
+                    📋 Copy Solution
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<footer class="bg-dark text-white text-center py-3">
+
+    <div class="container">
+
+        <small>
+
+            AI Helpdesk Ticket Classifier |
+            Built with Flask • Scikit-learn • TF-IDF • Logistic Regression
+
+        </small>
+
+    </div>
+
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>
